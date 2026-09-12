@@ -132,7 +132,7 @@ function logout() {
 function renderLogin(container) {
   const email = el('input', { class: 'inp', type: 'email', placeholder: 'Email address', autocomplete: 'username' });
   const pass = el('input', { class: 'inp', type: 'password', placeholder: 'Password', autocomplete: 'current-password' });
-  const submit = btn('Sign in', { class: 'dark' });
+  const submit = btn('Sign in', { class: 'dark' ,type: 'submit'});
   const form = el('form', {},
     formField('Email', email),
     formField('Password', pass),
@@ -220,18 +220,13 @@ function handleRoute(def, params) {
 
 async function boot() {
   const token = getToken();
-  if (token) {
-    try {
-      const user = await api.me();
-      setUser(user.user || user);
-    } catch (e) {
-      if (e.status === 401) {
-        clearSession();
-        navigate('/login');
-      }
-    }
+
+  if (token && !getUser()) {
+    clearSession();
   }
+
   start(handleRoute);
 }
 
 boot();
+
