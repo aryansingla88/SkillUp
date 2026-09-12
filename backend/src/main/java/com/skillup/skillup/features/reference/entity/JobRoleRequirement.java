@@ -1,4 +1,4 @@
-package com.skillup.skillup.features.jobrole.entity;
+package com.skillup.skillup.features.reference.entity;
 
 import com.skillup.skillup.features.skill.entity.Skill;
 import jakarta.persistence.*;

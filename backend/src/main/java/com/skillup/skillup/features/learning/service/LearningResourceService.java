@@ -22,8 +22,8 @@ import org.springframework.transaction.annotation.Transactional;
 public class LearningResourceService {
     private final LearningResourceRepository repository;
     private final ResourceSkillMappingRepository mappingRepository;
-    private final com.skillup.skillup.features.jobrole.repository.JobRoleRepository jobRoleRepository;
-    private final com.skillup.skillup.features.jobrole.repository.SectorRepository sectorRepository;
+    private final com.skillup.skillup.features.reference.repository.JobRoleRepository jobRoleRepository;
+    private final com.skillup.skillup.features.reference.repository.SectorRepository sectorRepository;
     private final LearningResourceMapper mapper;
 
     public PageLearningResourceResponse getLearningResources(int page, int limit, Long sectorId, Long jobRoleId) {

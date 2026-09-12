@@ -1,7 +1,7 @@
 package com.skillup.skillup.features.learning.entity;
 
-import com.skillup.skillup.features.jobrole.entity.JobRole;
-import com.skillup.skillup.features.jobrole.entity.Sector;
+import com.skillup.skillup.features.reference.entity.JobRole;
+import com.skillup.skillup.features.reference.entity.Sector;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,4 +1,4 @@
-package com.skillup.skillup.features.jobrole.entity;
+package com.skillup.skillup.features.reference.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
