@@ -1,11 +1,10 @@
 package com.skillup.skillup.features.skill.entity;
 
-import com.skillup.skillup.features.jobrole.entity.Sector;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
+import com.skillup.skillup.features.reference.entity.Sector;
 @Entity
 @Table(name = "skills")
 @Getter

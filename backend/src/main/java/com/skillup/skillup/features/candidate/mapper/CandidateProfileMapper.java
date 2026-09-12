@@ -4,8 +4,8 @@ import com.skillup.skillup.features.candidate.dto.CandidateProfileResponse;
 import com.skillup.skillup.features.candidate.dto.DistrictResponse;
 import com.skillup.skillup.features.candidate.dto.JobRoleResponse;
 import com.skillup.skillup.features.candidate.entity.CandidateProfile;
-import com.skillup.skillup.features.jobrole.entity.JobRole;
 import org.springframework.stereotype.Component;
+import com.skillup.skillup.features.reference.entity.JobRole;
 
 @Component
 public class CandidateProfileMapper {

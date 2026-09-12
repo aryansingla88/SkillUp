@@ -1,23 +1,24 @@
-package com.skillup.skillup.features.candidate.entity;
+package com.skillup.skillup.features.reference.entity;
 
 import jakarta.persistence.*;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
 @Entity
 @Table(name = "districts")
 @Getter
 @Setter
 @NoArgsConstructor
+@AllArgsConstructor
+@Builder
 public class District {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(nullable = false, length = 100)
+    @Column(nullable = false)
     private String state;
 
-    @Column(nullable = false, length = 150)
+    @Column(nullable = false)
     private String name;
 }

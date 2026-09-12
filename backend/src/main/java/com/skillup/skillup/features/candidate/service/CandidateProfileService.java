@@ -7,14 +7,15 @@ import com.skillup.skillup.features.candidate.dto.CandidateProfileResponse;
 import com.skillup.skillup.features.candidate.entity.CandidateProfile;
 import com.skillup.skillup.features.candidate.mapper.CandidateProfileMapper;
 import com.skillup.skillup.features.candidate.repository.CandidateProfileRepository;
-import com.skillup.skillup.features.candidate.repository.DistrictRepository;
-import com.skillup.skillup.features.jobrole.repository.JobRoleRepository;
+import com.skillup.skillup.features.reference.repository.DistrictRepository;
+import com.skillup.skillup.features.reference.repository.JobRoleRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 @Service
 @Transactional(readOnly = true)
 public class CandidateProfileService {
+
     private final CandidateProfileRepository candidateProfileRepository;
     private final DistrictRepository districtRepository;
     private final JobRoleRepository jobRoleRepository;
@@ -36,32 +37,47 @@ public class CandidateProfileService {
 
     public CandidateProfileResponse getProfile() {
         Long userId = currentUserService.getCurrentUserId();
+
         CandidateProfile profile = candidateProfileRepository.findByUserId(userId)
-                .orElseThrow(() -> new ResourceNotFoundException("Candidate profile not found"));
+                .orElseThrow(() ->
+                        new ResourceNotFoundException("Candidate profile not found"));
+
         return mapper.toResponse(profile);
     }
 
     @Transactional
     public CandidateProfileResponse updateProfile(CandidateProfileRequest request) {
         Long userId = currentUserService.getCurrentUserId();
+
         CandidateProfile profile = candidateProfileRepository.findByUserId(userId)
-                .orElseThrow(() -> new ResourceNotFoundException("Candidate profile not found"));
+                .orElseThrow(() ->
+                        new ResourceNotFoundException("Candidate profile not found"));
 
         if (request.districtId() != null) {
-            profile.setDistrict(districtRepository.findById(request.districtId())
-                    .orElseThrow(() -> new ResourceNotFoundException("District not found: " + request.districtId())));
+            profile.setDistrict(
+                    districtRepository.findById(request.districtId())
+                            .orElseThrow(() ->
+                                    new ResourceNotFoundException(
+                                            "District not found: " + request.districtId()))
+            );
         }
 
         profile.setEducation(request.education());
 
         if (request.careerGoalJobRoleId() != null) {
-            profile.setCareerGoalJobRole(jobRoleRepository.findById(request.careerGoalJobRoleId())
-                    .orElseThrow(() -> new ResourceNotFoundException(
-                            "Job role not found: " + request.careerGoalJobRoleId())));
+            profile.setCareerGoalJobRole(
+                    jobRoleRepository.findById(request.careerGoalJobRoleId())
+                            .orElseThrow(() ->
+                                    new ResourceNotFoundException(
+                                            "Job role not found: "
+                                                    + request.careerGoalJobRoleId()))
+            );
         } else {
             profile.setCareerGoalJobRole(null);
         }
 
-        return mapper.toResponse(candidateProfileRepository.save(profile));
+        return mapper.toResponse(
+                candidateProfileRepository.save(profile)
+        );
     }
 }

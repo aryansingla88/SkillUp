@@ -1,12 +1,12 @@
 package com.skillup.skillup.features.candidate.entity;
 
 import com.skillup.skillup.features.auth.entity.User;
-import com.skillup.skillup.features.jobrole.entity.JobRole;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
+import com.skillup.skillup.features.reference.entity.District;
+import com.skillup.skillup.features.reference.entity.JobRole;
 @Entity
 @Table(name = "candidate_profiles")
 @Getter
