@@ -1,0 +1,34 @@
+// Page modules register their routes here via registerRoute from ../router.js
+// Page modules register their routes here via registerRoute from ../router.js
+import './action-plan-detail.js';
+import './action-plans.js';
+import './candidate-dashboard.js';
+import './candidate-gaps.js';
+import './candidate-goal.js';
+import './candidate-guidance.js';
+import './candidate-learning.js';
+import './candidate-matches.js';
+import './candidate-skills.js';
+import './centre-action-detail.js';
+import './centre-actions.js';
+import './centre-capacity.js';
+import './centre-dashboard.js';
+import './centre-requests.js';
+import './district-capacity.js';
+import './district-curriculum.js';
+import './district-dashboard.js';
+import './district-implementation.js';
+import './district-labour-market.js';
+import './district-recommendations.js';
+import './district-requests.js';
+import './district-skill-gaps.js';
+import './gap-detail.js';
+import './recommendation-detail.js';
+import './register.js';
+import './state-coordination.js';
+import './state-dashboard.js';
+import './state-forecast.js';
+import './state-labour-market.js';
+import './state-priorities.js';
+import './state-recommendations.js';
+import './state-trends.js';
