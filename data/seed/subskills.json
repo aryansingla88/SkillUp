@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "skill_id": 1,
+    "name": "Python Fundamentals"
+  },
+  {
+    "id": 2,
+    "skill_id": 1,
+    "name": "Object-Oriented Programming"
+  },
+  {
+    "id": 3,
+    "skill_id": 1,
+    "name": "Data Handling"
+  },
+  {
+    "id": 4,
+    "skill_id": 2,
+    "name": "SQL Queries"
+  },
+  {
+    "id": 5,
+    "skill_id": 2,
+    "name": "Joins & Aggregation"
+  },
+  {
+    "id": 6,
+    "skill_id": 3,
+    "name": "Data Cleaning"
+  },
+  {
+    "id": 7,
+    "skill_id": 3,
+    "name": "Dashboarding"
+  },
+  {
+    "id": 8,
+    "skill_id": 4,
+    "name": "Git Workflows"
+  },
+  {
+    "id": 9,
+    "skill_id": 5,
+    "name": "Cloud Infrastructure Basics"
+  },
+  {
+    "id": 10,
+    "skill_id": 5,
+    "name": "Cloud Monitoring"
+  },
+  {
+    "id": 11,
+    "skill_id": 6,
+    "name": "Security Hygiene"
+  },
+  {
+    "id": 12,
+    "skill_id": 7,
+    "name": "Electronic Circuit Testing"
+  },
+  {
+    "id": 13,
+    "skill_id": 8,
+    "name": "Microcontroller Programming"
+  },
+  {
+    "id": 14,
+    "skill_id": 9,
+    "name": "PCB Inspection"
+  },
+  {
+    "id": 15,
+    "skill_id": 10,
+    "name": "EV Fault Diagnosis"
+  },
+  {
+    "id": 16,
+    "skill_id": 11,
+    "name": "Battery Pack Basics"
+  },
+  {
+    "id": 17,
+    "skill_id": 12,
+    "name": "Vehicle Wiring"
+  },
+  {
+    "id": 18,
+    "skill_id": 13,
+    "name": "PV Module Installation"
+  },
+  {
+    "id": 19,
+    "skill_id": 14,
+    "name": "PV System Sizing"
+  },
+  {
+    "id": 20,
+    "skill_id": 15,
+    "name": "Electrical Hazard Prevention"
+  },
+  {
+    "id": 21,
+    "skill_id": 16,
+    "name": "Basic Patient Assistance"
+  },
+  {
+    "id": 22,
+    "skill_id": 17,
+    "name": "Sample Handling"
+  },
+  {
+    "id": 23,
+    "skill_id": 18,
+    "name": "Digital Health Records"
+  },
+  {
+    "id": 24,
+    "skill_id": 19,
+    "name": "2D CAD Drafting"
+  },
+  {
+    "id": 25,
+    "skill_id": 20,
+    "name": "Project Scheduling"
+  },
+  {
+    "id": 26,
+    "skill_id": 21,
+    "name": "Construction PPE & Safety"
+  },
+  {
+    "id": 27,
+    "skill_id": 22,
+    "name": "Financial Reporting"
+  },
+  {
+    "id": 28,
+    "skill_id": 23,
+    "name": "Transaction Processing"
+  },
+  {
+    "id": 29,
+    "skill_id": 24,
+    "name": "Customer Interaction"
+  },
+  {
+    "id": 30,
+    "skill_id": 25,
+    "name": "CNC Setup"
+  },
+  {
+    "id": 31,
+    "skill_id": 26,
+    "name": "PLC Basics"
+  },
+  {
+    "id": 32,
+    "skill_id": 27,
+    "name": "Inspection Methods"
+  }
+]

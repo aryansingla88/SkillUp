@@ -1,0 +1,3431 @@
+[
+  {
+    "id": 1,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2024,
+    "demand_count": 101,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 2,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2025,
+    "demand_count": 102,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 3,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2026,
+    "demand_count": 116,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 4,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2024,
+    "demand_count": 41,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 5,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2025,
+    "demand_count": 44,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 6,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2026,
+    "demand_count": 49,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 7,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2024,
+    "demand_count": 33,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 8,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2025,
+    "demand_count": 36,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 9,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2026,
+    "demand_count": 38,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 10,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2024,
+    "demand_count": 62,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 11,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2025,
+    "demand_count": 62,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 12,
+    "district_id": 1,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2026,
+    "demand_count": 70,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 13,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2024,
+    "demand_count": 118,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 14,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2025,
+    "demand_count": 123,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 15,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2026,
+    "demand_count": 139,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 16,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2024,
+    "demand_count": 110,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 17,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2025,
+    "demand_count": 122,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 18,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2026,
+    "demand_count": 132,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 19,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2024,
+    "demand_count": 89,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 20,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2025,
+    "demand_count": 98,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 21,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2026,
+    "demand_count": 109,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 22,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2024,
+    "demand_count": 88,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 23,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2025,
+    "demand_count": 94,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 24,
+    "district_id": 1,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2026,
+    "demand_count": 101,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 25,
+    "district_id": 1,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2024,
+    "demand_count": 87,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 26,
+    "district_id": 1,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2025,
+    "demand_count": 97,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 27,
+    "district_id": 1,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2026,
+    "demand_count": 104,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 28,
+    "district_id": 1,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2024,
+    "demand_count": 41,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 29,
+    "district_id": 1,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2025,
+    "demand_count": 40,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 30,
+    "district_id": 1,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2026,
+    "demand_count": 46,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 31,
+    "district_id": 1,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2024,
+    "demand_count": 97,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 32,
+    "district_id": 1,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2025,
+    "demand_count": 104,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 33,
+    "district_id": 1,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2026,
+    "demand_count": 110,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 34,
+    "district_id": 1,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2024,
+    "demand_count": 130,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 35,
+    "district_id": 1,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2025,
+    "demand_count": 136,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 36,
+    "district_id": 1,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2026,
+    "demand_count": 151,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 37,
+    "district_id": 1,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2024,
+    "demand_count": 60,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 38,
+    "district_id": 1,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2025,
+    "demand_count": 61,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 39,
+    "district_id": 1,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2026,
+    "demand_count": 66,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 40,
+    "district_id": 1,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 43,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 41,
+    "district_id": 1,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 52,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 42,
+    "district_id": 1,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 65,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 43,
+    "district_id": 1,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "demand_count": 42,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 44,
+    "district_id": 1,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "demand_count": 43,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 45,
+    "district_id": 1,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "demand_count": 46,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 46,
+    "district_id": 1,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "demand_count": 56,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 47,
+    "district_id": 1,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "demand_count": 59,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 48,
+    "district_id": 1,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "demand_count": 62,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 49,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2024,
+    "demand_count": 99,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 50,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2025,
+    "demand_count": 112,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 51,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2026,
+    "demand_count": 115,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 52,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2024,
+    "demand_count": 151,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 53,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2025,
+    "demand_count": 166,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 54,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2026,
+    "demand_count": 178,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 55,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2024,
+    "demand_count": 179,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 56,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2025,
+    "demand_count": 189,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 57,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2026,
+    "demand_count": 202,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 58,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2024,
+    "demand_count": 60,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 59,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2025,
+    "demand_count": 63,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 60,
+    "district_id": 2,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2026,
+    "demand_count": 68,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 61,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2024,
+    "demand_count": 93,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 62,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2025,
+    "demand_count": 94,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 63,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2026,
+    "demand_count": 106,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 64,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2024,
+    "demand_count": 50,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 65,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2025,
+    "demand_count": 54,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 66,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2026,
+    "demand_count": 60,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 67,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2024,
+    "demand_count": 97,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 68,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2025,
+    "demand_count": 106,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 69,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2026,
+    "demand_count": 118,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 70,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2024,
+    "demand_count": 86,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 71,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2025,
+    "demand_count": 94,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 72,
+    "district_id": 2,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2026,
+    "demand_count": 104,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 73,
+    "district_id": 2,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2024,
+    "demand_count": 76,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 74,
+    "district_id": 2,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2025,
+    "demand_count": 80,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 75,
+    "district_id": 2,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2026,
+    "demand_count": 88,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 76,
+    "district_id": 2,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2024,
+    "demand_count": 53,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 77,
+    "district_id": 2,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2025,
+    "demand_count": 57,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 78,
+    "district_id": 2,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2026,
+    "demand_count": 63,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 79,
+    "district_id": 2,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2024,
+    "demand_count": 77,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 80,
+    "district_id": 2,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2025,
+    "demand_count": 89,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 81,
+    "district_id": 2,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2026,
+    "demand_count": 92,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 82,
+    "district_id": 2,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2024,
+    "demand_count": 103,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 83,
+    "district_id": 2,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2025,
+    "demand_count": 107,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 84,
+    "district_id": 2,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2026,
+    "demand_count": 110,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 85,
+    "district_id": 2,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2024,
+    "demand_count": 63,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 86,
+    "district_id": 2,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2025,
+    "demand_count": 69,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 87,
+    "district_id": 2,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2026,
+    "demand_count": 70,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 88,
+    "district_id": 2,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2024,
+    "demand_count": 31,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 89,
+    "district_id": 2,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2025,
+    "demand_count": 33,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 90,
+    "district_id": 2,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2026,
+    "demand_count": 35,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 91,
+    "district_id": 2,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2024,
+    "demand_count": 53,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 92,
+    "district_id": 2,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2025,
+    "demand_count": 54,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 93,
+    "district_id": 2,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2026,
+    "demand_count": 55,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 94,
+    "district_id": 2,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2024,
+    "demand_count": 83,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 95,
+    "district_id": 2,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2025,
+    "demand_count": 87,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 96,
+    "district_id": 2,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2026,
+    "demand_count": 89,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 97,
+    "district_id": 2,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2024,
+    "demand_count": 75,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 98,
+    "district_id": 2,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2025,
+    "demand_count": 77,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 99,
+    "district_id": 2,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2026,
+    "demand_count": 78,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 100,
+    "district_id": 3,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2024,
+    "demand_count": 56,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 101,
+    "district_id": 3,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2025,
+    "demand_count": 61,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 102,
+    "district_id": 3,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2026,
+    "demand_count": 70,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 103,
+    "district_id": 3,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2024,
+    "demand_count": 44,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 104,
+    "district_id": 3,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2025,
+    "demand_count": 48,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 105,
+    "district_id": 3,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2026,
+    "demand_count": 54,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 106,
+    "district_id": 3,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 42,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 107,
+    "district_id": 3,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 54,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 108,
+    "district_id": 3,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 62,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 109,
+    "district_id": 3,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2024,
+    "demand_count": 67,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 110,
+    "district_id": 3,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2025,
+    "demand_count": 70,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 111,
+    "district_id": 3,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2026,
+    "demand_count": 78,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 112,
+    "district_id": 3,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2024,
+    "demand_count": 40,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 113,
+    "district_id": 3,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2025,
+    "demand_count": 43,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 114,
+    "district_id": 3,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2026,
+    "demand_count": 48,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 115,
+    "district_id": 3,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2024,
+    "demand_count": 40,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 116,
+    "district_id": 3,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2025,
+    "demand_count": 42,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 117,
+    "district_id": 3,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2026,
+    "demand_count": 46,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 118,
+    "district_id": 3,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "demand_count": 71,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 119,
+    "district_id": 3,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "demand_count": 76,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 120,
+    "district_id": 3,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "demand_count": 83,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 121,
+    "district_id": 3,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "demand_count": 41,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 122,
+    "district_id": 3,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "demand_count": 43,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 123,
+    "district_id": 3,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "demand_count": 47,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 124,
+    "district_id": 3,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2024,
+    "demand_count": 127,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 125,
+    "district_id": 3,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2025,
+    "demand_count": 140,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 126,
+    "district_id": 3,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2026,
+    "demand_count": 144,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 127,
+    "district_id": 3,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2024,
+    "demand_count": 123,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 128,
+    "district_id": 3,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2025,
+    "demand_count": 129,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 129,
+    "district_id": 3,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2026,
+    "demand_count": 142,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 130,
+    "district_id": 3,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 147,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 131,
+    "district_id": 3,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 168,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 132,
+    "district_id": 3,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 202,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 133,
+    "district_id": 3,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "demand_count": 57,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 134,
+    "district_id": 3,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "demand_count": 61,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 135,
+    "district_id": 3,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "demand_count": 68,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 136,
+    "district_id": 3,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "demand_count": 34,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 137,
+    "district_id": 3,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "demand_count": 38,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 138,
+    "district_id": 3,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "demand_count": 40,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 139,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2024,
+    "demand_count": 69,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 140,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2025,
+    "demand_count": 78,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 141,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2026,
+    "demand_count": 93,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 142,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2024,
+    "demand_count": 71,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 143,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2025,
+    "demand_count": 86,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 144,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2026,
+    "demand_count": 103,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 145,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2024,
+    "demand_count": 38,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 146,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2025,
+    "demand_count": 42,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 147,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2026,
+    "demand_count": 50,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 148,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 60,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 149,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 72,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 150,
+    "district_id": 4,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 83,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 151,
+    "district_id": 4,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2024,
+    "demand_count": 31,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 152,
+    "district_id": 4,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2025,
+    "demand_count": 39,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 153,
+    "district_id": 4,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2026,
+    "demand_count": 45,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 154,
+    "district_id": 4,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2024,
+    "demand_count": 77,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 155,
+    "district_id": 4,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2025,
+    "demand_count": 89,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 156,
+    "district_id": 4,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2026,
+    "demand_count": 105,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 157,
+    "district_id": 4,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 49,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 158,
+    "district_id": 4,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 61,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 159,
+    "district_id": 4,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 72,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 160,
+    "district_id": 4,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "demand_count": 146,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 161,
+    "district_id": 4,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "demand_count": 180,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 162,
+    "district_id": 4,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "demand_count": 218,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 163,
+    "district_id": 4,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 150,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 164,
+    "district_id": 4,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 189,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 165,
+    "district_id": 4,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 217,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 166,
+    "district_id": 4,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "demand_count": 111,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 167,
+    "district_id": 4,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "demand_count": 125,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 168,
+    "district_id": 4,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "demand_count": 154,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 169,
+    "district_id": 4,
+    "job_role_id": 9,
+    "skill_id": 14,
+    "year": 2024,
+    "demand_count": 75,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 170,
+    "district_id": 4,
+    "job_role_id": 9,
+    "skill_id": 14,
+    "year": 2025,
+    "demand_count": 87,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 171,
+    "district_id": 4,
+    "job_role_id": 9,
+    "skill_id": 14,
+    "year": 2026,
+    "demand_count": 108,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 172,
+    "district_id": 4,
+    "job_role_id": 9,
+    "skill_id": 13,
+    "year": 2024,
+    "demand_count": 43,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 173,
+    "district_id": 4,
+    "job_role_id": 9,
+    "skill_id": 13,
+    "year": 2025,
+    "demand_count": 51,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 174,
+    "district_id": 4,
+    "job_role_id": 9,
+    "skill_id": 13,
+    "year": 2026,
+    "demand_count": 59,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 175,
+    "district_id": 4,
+    "job_role_id": 9,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 29,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 176,
+    "district_id": 4,
+    "job_role_id": 9,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 36,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 177,
+    "district_id": 4,
+    "job_role_id": 9,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 43,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 178,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2024,
+    "demand_count": 29,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 179,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2025,
+    "demand_count": 33,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 180,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2026,
+    "demand_count": 40,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 181,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2024,
+    "demand_count": 88,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 182,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2025,
+    "demand_count": 101,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 183,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2026,
+    "demand_count": 119,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 184,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2024,
+    "demand_count": 47,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 185,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2025,
+    "demand_count": 54,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 186,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2026,
+    "demand_count": 64,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 187,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 48,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 188,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 59,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 189,
+    "district_id": 5,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 72,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 190,
+    "district_id": 5,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2024,
+    "demand_count": 38,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 191,
+    "district_id": 5,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2025,
+    "demand_count": 44,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 192,
+    "district_id": 5,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2026,
+    "demand_count": 45,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 193,
+    "district_id": 5,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2024,
+    "demand_count": 59,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 194,
+    "district_id": 5,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2025,
+    "demand_count": 62,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 195,
+    "district_id": 5,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2026,
+    "demand_count": 64,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 196,
+    "district_id": 5,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2024,
+    "demand_count": 42,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 197,
+    "district_id": 5,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2025,
+    "demand_count": 43,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 198,
+    "district_id": 5,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2026,
+    "demand_count": 47,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 199,
+    "district_id": 5,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2024,
+    "demand_count": 78,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 200,
+    "district_id": 5,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2025,
+    "demand_count": 83,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 201,
+    "district_id": 5,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2026,
+    "demand_count": 83,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 202,
+    "district_id": 5,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2024,
+    "demand_count": 61,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 203,
+    "district_id": 5,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2025,
+    "demand_count": 67,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 204,
+    "district_id": 5,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2026,
+    "demand_count": 70,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 205,
+    "district_id": 5,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "demand_count": 78,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 206,
+    "district_id": 5,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "demand_count": 89,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 207,
+    "district_id": 5,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "demand_count": 93,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 208,
+    "district_id": 5,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "demand_count": 104,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 209,
+    "district_id": 5,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "demand_count": 104,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 210,
+    "district_id": 5,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "demand_count": 116,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 211,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2024,
+    "demand_count": 69,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 212,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2025,
+    "demand_count": 75,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 213,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2026,
+    "demand_count": 81,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 214,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2024,
+    "demand_count": 46,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 215,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2025,
+    "demand_count": 53,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 216,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2026,
+    "demand_count": 55,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 217,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2024,
+    "demand_count": 70,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 218,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2025,
+    "demand_count": 74,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 219,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2026,
+    "demand_count": 82,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 220,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2024,
+    "demand_count": 69,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 221,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2025,
+    "demand_count": 76,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 222,
+    "district_id": 6,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2026,
+    "demand_count": 80,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 223,
+    "district_id": 6,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2024,
+    "demand_count": 51,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 224,
+    "district_id": 6,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2025,
+    "demand_count": 55,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 225,
+    "district_id": 6,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2026,
+    "demand_count": 61,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 226,
+    "district_id": 6,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2024,
+    "demand_count": 108,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 227,
+    "district_id": 6,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2025,
+    "demand_count": 113,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 228,
+    "district_id": 6,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2026,
+    "demand_count": 120,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 229,
+    "district_id": 6,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2024,
+    "demand_count": 59,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 230,
+    "district_id": 6,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2025,
+    "demand_count": 64,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 231,
+    "district_id": 6,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2026,
+    "demand_count": 69,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 232,
+    "district_id": 6,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2024,
+    "demand_count": 100,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 233,
+    "district_id": 6,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2025,
+    "demand_count": 107,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 234,
+    "district_id": 6,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2026,
+    "demand_count": 117,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 235,
+    "district_id": 6,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2024,
+    "demand_count": 39,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 236,
+    "district_id": 6,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2025,
+    "demand_count": 42,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 237,
+    "district_id": 6,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2026,
+    "demand_count": 44,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 238,
+    "district_id": 6,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2024,
+    "demand_count": 101,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 239,
+    "district_id": 6,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2025,
+    "demand_count": 105,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 240,
+    "district_id": 6,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2026,
+    "demand_count": 112,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 241,
+    "district_id": 6,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2024,
+    "demand_count": 103,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 242,
+    "district_id": 6,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2025,
+    "demand_count": 113,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 243,
+    "district_id": 6,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2026,
+    "demand_count": 116,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 244,
+    "district_id": 6,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2024,
+    "demand_count": 50,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 245,
+    "district_id": 6,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2025,
+    "demand_count": 56,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 246,
+    "district_id": 6,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2026,
+    "demand_count": 56,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 247,
+    "district_id": 6,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2024,
+    "demand_count": 99,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 248,
+    "district_id": 6,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2025,
+    "demand_count": 95,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 249,
+    "district_id": 6,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2026,
+    "demand_count": 103,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 250,
+    "district_id": 6,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2024,
+    "demand_count": 59,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 251,
+    "district_id": 6,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2025,
+    "demand_count": 65,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 252,
+    "district_id": 6,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2026,
+    "demand_count": 66,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 253,
+    "district_id": 6,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2024,
+    "demand_count": 49,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 254,
+    "district_id": 6,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2025,
+    "demand_count": 51,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 255,
+    "district_id": 6,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2026,
+    "demand_count": 55,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 256,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2024,
+    "demand_count": 70,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 257,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2025,
+    "demand_count": 80,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 258,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2026,
+    "demand_count": 94,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 259,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2024,
+    "demand_count": 59,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 260,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2025,
+    "demand_count": 72,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 261,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2026,
+    "demand_count": 83,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 262,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2024,
+    "demand_count": 51,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 263,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2025,
+    "demand_count": 57,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 264,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2026,
+    "demand_count": 69,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 265,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 77,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 266,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 96,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 267,
+    "district_id": 7,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 116,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 268,
+    "district_id": 7,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2024,
+    "demand_count": 76,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 269,
+    "district_id": 7,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2025,
+    "demand_count": 90,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 270,
+    "district_id": 7,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2026,
+    "demand_count": 106,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 271,
+    "district_id": 7,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2024,
+    "demand_count": 46,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 272,
+    "district_id": 7,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2025,
+    "demand_count": 54,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 273,
+    "district_id": 7,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2026,
+    "demand_count": 63,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 274,
+    "district_id": 7,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 55,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 275,
+    "district_id": 7,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 61,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 276,
+    "district_id": 7,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 76,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 277,
+    "district_id": 7,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "demand_count": 36,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 278,
+    "district_id": 7,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "demand_count": 39,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 279,
+    "district_id": 7,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "demand_count": 42,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 280,
+    "district_id": 7,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "demand_count": 58,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 281,
+    "district_id": 7,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "demand_count": 58,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 282,
+    "district_id": 7,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "demand_count": 64,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 283,
+    "district_id": 7,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "demand_count": 33,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 284,
+    "district_id": 7,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "demand_count": 36,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 285,
+    "district_id": 7,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "demand_count": 39,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 286,
+    "district_id": 7,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "demand_count": 65,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 287,
+    "district_id": 7,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "demand_count": 69,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 288,
+    "district_id": 7,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "demand_count": 75,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 289,
+    "district_id": 8,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2024,
+    "demand_count": 75,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 290,
+    "district_id": 8,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2025,
+    "demand_count": 85,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 291,
+    "district_id": 8,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2026,
+    "demand_count": 86,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 292,
+    "district_id": 8,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2024,
+    "demand_count": 61,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 293,
+    "district_id": 8,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2025,
+    "demand_count": 67,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 294,
+    "district_id": 8,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2026,
+    "demand_count": 69,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 295,
+    "district_id": 8,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2024,
+    "demand_count": 38,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 296,
+    "district_id": 8,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2025,
+    "demand_count": 39,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 297,
+    "district_id": 8,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2026,
+    "demand_count": 43,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 298,
+    "district_id": 8,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2024,
+    "demand_count": 58,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 299,
+    "district_id": 8,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2025,
+    "demand_count": 60,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 300,
+    "district_id": 8,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2026,
+    "demand_count": 62,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 301,
+    "district_id": 8,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2024,
+    "demand_count": 102,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 302,
+    "district_id": 8,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2025,
+    "demand_count": 106,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 303,
+    "district_id": 8,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2026,
+    "demand_count": 107,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 304,
+    "district_id": 8,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2024,
+    "demand_count": 70,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 305,
+    "district_id": 8,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2025,
+    "demand_count": 69,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 306,
+    "district_id": 8,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2026,
+    "demand_count": 75,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 307,
+    "district_id": 8,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2024,
+    "demand_count": 56,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 308,
+    "district_id": 8,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2025,
+    "demand_count": 57,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 309,
+    "district_id": 8,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2026,
+    "demand_count": 62,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 310,
+    "district_id": 8,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "demand_count": 81,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 311,
+    "district_id": 8,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "demand_count": 94,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 312,
+    "district_id": 8,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "demand_count": 118,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 313,
+    "district_id": 8,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 67,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 314,
+    "district_id": 8,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 86,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 315,
+    "district_id": 8,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 98,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 316,
+    "district_id": 8,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "demand_count": 58,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 317,
+    "district_id": 8,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "demand_count": 73,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 318,
+    "district_id": 8,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "demand_count": 85,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 319,
+    "district_id": 9,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2024,
+    "demand_count": 84,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 320,
+    "district_id": 9,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2025,
+    "demand_count": 98,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 321,
+    "district_id": 9,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2026,
+    "demand_count": 117,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 322,
+    "district_id": 9,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2024,
+    "demand_count": 70,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 323,
+    "district_id": 9,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2025,
+    "demand_count": 83,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 324,
+    "district_id": 9,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2026,
+    "demand_count": 93,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 325,
+    "district_id": 9,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 37,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 326,
+    "district_id": 9,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 45,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 327,
+    "district_id": 9,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 53,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 328,
+    "district_id": 9,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "demand_count": 46,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 329,
+    "district_id": 9,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "demand_count": 56,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 330,
+    "district_id": 9,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "demand_count": 68,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 331,
+    "district_id": 9,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 38,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 332,
+    "district_id": 9,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 44,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 333,
+    "district_id": 9,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 52,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 334,
+    "district_id": 9,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "demand_count": 46,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 335,
+    "district_id": 9,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "demand_count": 56,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 336,
+    "district_id": 9,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "demand_count": 66,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 337,
+    "district_id": 9,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "demand_count": 142,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 338,
+    "district_id": 9,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "demand_count": 160,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 339,
+    "district_id": 9,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "demand_count": 170,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 340,
+    "district_id": 9,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "demand_count": 144,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 341,
+    "district_id": 9,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "demand_count": 160,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 342,
+    "district_id": 9,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "demand_count": 165,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 343,
+    "district_id": 9,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "demand_count": 57,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 344,
+    "district_id": 9,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "demand_count": 66,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 345,
+    "district_id": 9,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "demand_count": 68,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 346,
+    "district_id": 9,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "demand_count": 91,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 347,
+    "district_id": 9,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "demand_count": 99,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 348,
+    "district_id": 9,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "demand_count": 109,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 349,
+    "district_id": 10,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2024,
+    "demand_count": 74,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 350,
+    "district_id": 10,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2025,
+    "demand_count": 82,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 351,
+    "district_id": 10,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2026,
+    "demand_count": 89,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 352,
+    "district_id": 10,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2024,
+    "demand_count": 88,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 353,
+    "district_id": 10,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2025,
+    "demand_count": 95,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 354,
+    "district_id": 10,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2026,
+    "demand_count": 109,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 355,
+    "district_id": 10,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 62,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 356,
+    "district_id": 10,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 70,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 357,
+    "district_id": 10,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 86,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 358,
+    "district_id": 10,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2024,
+    "demand_count": 68,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 359,
+    "district_id": 10,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2025,
+    "demand_count": 75,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 360,
+    "district_id": 10,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2026,
+    "demand_count": 81,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 361,
+    "district_id": 10,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2024,
+    "demand_count": 52,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 362,
+    "district_id": 10,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2025,
+    "demand_count": 58,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 363,
+    "district_id": 10,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2026,
+    "demand_count": 63,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 364,
+    "district_id": 10,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2024,
+    "demand_count": 43,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 365,
+    "district_id": 10,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2025,
+    "demand_count": 49,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 366,
+    "district_id": 10,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2026,
+    "demand_count": 52,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 367,
+    "district_id": 10,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "demand_count": 67,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 368,
+    "district_id": 10,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "demand_count": 85,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 369,
+    "district_id": 10,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "demand_count": 100,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 370,
+    "district_id": 10,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "demand_count": 66,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 371,
+    "district_id": 10,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "demand_count": 81,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 372,
+    "district_id": 10,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "demand_count": 98,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 373,
+    "district_id": 10,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "demand_count": 32,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 374,
+    "district_id": 10,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "demand_count": 38,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 375,
+    "district_id": 10,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "demand_count": 46,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 376,
+    "district_id": 10,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2024,
+    "demand_count": 36,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 377,
+    "district_id": 10,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2025,
+    "demand_count": 40,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 378,
+    "district_id": 10,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2026,
+    "demand_count": 41,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 379,
+    "district_id": 10,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2024,
+    "demand_count": 42,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 380,
+    "district_id": 10,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2025,
+    "demand_count": 46,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  },
+  {
+    "id": 381,
+    "district_id": 10,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2026,
+    "demand_count": 49,
+    "source_type": "PROTOTYPE_SYNTHETIC"
+  }
+]
