@@ -2,7 +2,7 @@ package com.skillup.skillup.features.execution.controller;
 import com.skillup.skillup.features.execution.dto.request.*; import com.skillup.skillup.features.execution.dto.response.*; import com.skillup.skillup.features.execution.service.ActionPlanService;
 import jakarta.validation.Valid; import org.springframework.http.ResponseEntity;
 import org.springframework.http.HttpStatus; import org.springframework.web.bind.annotation.*;
-@RestController @RequestMapping("/api/action-plans")
+@RestController @RequestMapping("/action-plans")
 public class ActionPlanController {
  private final ActionPlanService service; public ActionPlanController(ActionPlanService s){service=s;}
  @GetMapping public ResponseEntity<PageActionPlanResponse> list(@RequestParam(defaultValue="1")int page,@RequestParam(defaultValue="20")int limit,@RequestParam(required=false)Long districtId,@RequestParam(required=false)String status){return ResponseEntity.ok(service.list(page,limit,districtId,status));}
