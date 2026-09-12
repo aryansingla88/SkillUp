@@ -1,7 +1,11 @@
 package com.skillup.skillup.features.reference.mapper;
 
 import com.skillup.skillup.features.reference.dto.response.*;
-import com.skillup.skillup.features.reference.entity.*;
+import com.skillup.skillup.features.reference.entity.District;
+import com.skillup.skillup.features.reference.entity.Sector;
+import com.skillup.skillup.features.reference.entity.JobRole;
+import com.skillup.skillup.features.reference.entity.Subskill;
+import com.skillup.skillup.features.skill.entity.Skill;
 import org.springframework.stereotype.Component;
 
 @Component

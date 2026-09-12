@@ -1,6 +1,6 @@
-package com.skillup.skillup.features.reference.repository;
+package com.skillup.skillup.features.skill.repository;
 
-import com.skillup.skillup.features.reference.entity.Skill;
+import com.skillup.skillup.features.skill.entity.Skill;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

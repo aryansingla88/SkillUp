@@ -1,9 +1,10 @@
 package com.skillup.skillup.features.government.entity;
 
 import com.skillup.skillup.features.reference.entity.JobRole;
-import com.skillup.skillup.features.reference.entity.Skill;
 import jakarta.persistence.*;
 import lombok.*;
+import com.skillup.skillup.features.skill.entity.Skill;
+
 
 @Entity
 @Table(name = "training_supply")

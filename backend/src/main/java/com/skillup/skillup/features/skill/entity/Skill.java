@@ -1,15 +1,15 @@
-package com.skillup.skillup.features.reference.entity;
+package com.skillup.skillup.features.skill.entity;
 
 import jakarta.persistence.*;
-import lombok.*;
-
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import com.skillup.skillup.features.reference.entity.Sector;
 @Entity
 @Table(name = "skills")
 @Getter
 @Setter
 @NoArgsConstructor
-@AllArgsConstructor
-@Builder
 public class Skill {
 
     @Id
@@ -20,6 +20,6 @@ public class Skill {
     @JoinColumn(name = "sector_id", nullable = false)
     private Sector sector;
 
-    @Column(nullable = false)
+    @Column(name = "name")
     private String name;
 }
