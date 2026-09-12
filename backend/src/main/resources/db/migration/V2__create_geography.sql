@@ -1,0 +1,5 @@
+CREATE TABLE districts (
+    id BIGSERIAL PRIMARY KEY,
+    state VARCHAR(100) NOT NULL,
+    name VARCHAR(150) NOT NULL
+);
