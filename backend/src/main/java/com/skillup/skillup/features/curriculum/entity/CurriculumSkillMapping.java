@@ -2,18 +2,8 @@ package com.skillup.skillup.features.curriculum.entity;
 
 import com.skillup.skillup.features.reference.entity.Skill;
 import com.skillup.skillup.features.reference.entity.Subskill;
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.IdClass;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
-import jakarta.persistence.Table;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import jakarta.persistence.*;
+import lombok.*;
 
 @Entity
 @Table(name = "curriculum_skill_mapping")

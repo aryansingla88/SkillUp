@@ -1,8 +1,9 @@
 package com.skillup.skillup.features.curriculum.dto;
 
+import com.skillup.skillup.features.reference.dto.response.SkillResponse;
+
 public record CurriculumGapResponse(
-        Long skillId,
-        String skillName,
+        SkillResponse skill,
         String requiredLevel,
         String curriculumCoverage,
         String gap,

@@ -7,30 +7,15 @@ import org.springframework.data.repository.query.Param;
 
 import java.util.List;
 
-public interface TrainingSupplyRepository
-        extends JpaRepository<TrainingSupply, Long> {
-
-    List<TrainingSupply> findByTrainingCentreId(
-            Long trainingCentreId
-    );
-
-    List<TrainingSupply>
-    findByJobRoleIdAndSkillIdAndYear(
-            Long jobRoleId,
-            Long skillId,
-            Integer year
-    );
+public interface TrainingSupplyRepository extends JpaRepository<TrainingSupply, Long> {
+    List<TrainingSupply> findByTrainingCentre_Id(Long trainingCentreId);
+    List<TrainingSupply> findByJobRole_IdAndSkill_IdAndYear(Long jobRoleId, Long skillId, Integer year);
 
     @Query("""
         SELECT COALESCE(SUM(ts.capacity), 0)
         FROM TrainingSupply ts
-        JOIN TrainingCentre tc
-          ON ts.trainingCentreId = tc.id
-        WHERE tc.districtId = :districtId
+        WHERE ts.trainingCentre.district.id = :districtId
           AND ts.year = :year
     """)
-    Integer getDistrictCapacity(
-            @Param("districtId") Long districtId,
-            @Param("year") Integer year
-    );
+    Integer getDistrictCapacity(@Param("districtId") Long districtId, @Param("year") Integer year);
 }

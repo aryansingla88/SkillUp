@@ -1,6 +1,9 @@
 package com.skillup.skillup.features.curriculum.service;
 
-import com.skillup.skillup.features.curriculum.dto.*;
+import com.skillup.skillup.features.curriculum.dto.CurriculumDetailResponse;
+import com.skillup.skillup.features.curriculum.dto.CurriculumGapResponse;
+import com.skillup.skillup.features.curriculum.dto.CurriculumResponse;
+
 import java.util.List;
 
 public interface CurriculumService {

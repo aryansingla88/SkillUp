@@ -1,10 +1,11 @@
 package com.skillup.skillup.features.government.controller;
 
-import com.skillup.skillup.features.government.dto.*;
+import com.skillup.skillup.features.government.dto.DistrictDashboardResponse;
+import com.skillup.skillup.features.government.dto.PageSkillGapResponse;
+import com.skillup.skillup.features.government.dto.StateDashboardResponse;
 import com.skillup.skillup.features.government.service.GovernmentIntelligenceService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.security.access.prepost.PreAuthorize;
 
 @RestController
 @RequestMapping

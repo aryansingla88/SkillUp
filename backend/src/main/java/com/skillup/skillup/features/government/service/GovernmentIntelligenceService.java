@@ -1,6 +1,8 @@
 package com.skillup.skillup.features.government.service;
 
-import com.skillup.skillup.features.government.dto.*;
+import com.skillup.skillup.features.government.dto.DistrictDashboardResponse;
+import com.skillup.skillup.features.government.dto.PageSkillGapResponse;
+import com.skillup.skillup.features.government.dto.StateDashboardResponse;
 
 public interface GovernmentIntelligenceService {
 

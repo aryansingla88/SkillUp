@@ -1,14 +1,10 @@
 package com.skillup.skillup.features.reference.controller;
 
-import com.skillup.skillup.features.reference.dto.response.DistrictResponse;
-import com.skillup.skillup.features.reference.dto.response.JobRoleResponse;
-import com.skillup.skillup.features.reference.dto.response.SectorResponse;
-import com.skillup.skillup.features.reference.dto.response.SkillResponse;
-import com.skillup.skillup.features.reference.dto.response.SubskillResponse;
+import com.skillup.skillup.features.reference.dto.response.*;
 import com.skillup.skillup.features.reference.service.ReferenceService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.web.bind.annotation.*;
 import org.springframework.security.access.prepost.PreAuthorize;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 

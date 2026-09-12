@@ -1,13 +1,18 @@
 package com.skillup.skillup.features.curriculum.service;
 
 import com.skillup.skillup.common.exception.ResourceNotFoundException;
-import com.skillup.skillup.features.curriculum.dto.*;
+import com.skillup.skillup.features.curriculum.dto.CurriculumDetailResponse;
+import com.skillup.skillup.features.curriculum.dto.CurriculumGapResponse;
+import com.skillup.skillup.features.curriculum.dto.CurriculumResponse;
+import com.skillup.skillup.features.curriculum.dto.CurriculumSkillResponse;
 import com.skillup.skillup.features.curriculum.entity.CurriculumSkillMapping;
 import com.skillup.skillup.features.curriculum.entity.TrainingCurriculum;
 import com.skillup.skillup.features.curriculum.mapper.CurriculumMapper;
-import com.skillup.skillup.features.curriculum.repository.*;
+import com.skillup.skillup.features.curriculum.repository.CurriculumSkillMappingRepository;
+import com.skillup.skillup.features.curriculum.repository.TrainingCurriculumRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
 import java.util.List;
 
 @Service
@@ -58,22 +63,23 @@ public class CurriculumServiceImpl implements CurriculumService {
     }
 
     private CurriculumGapResponse toGapResponse(CurriculumSkillMapping mapping) {
-        String skillName = mapping.getSkill() != null
-                ? mapping.getSkill().getName() : "Skill #" + mapping.getSkillId();
-
         String coverage = mapping.getSubskill() != null ? "ALIGNED" : "PARTIAL";
         String gap = coverage.equals("ALIGNED")
-                ? "Skill is represented with subskill-level curriculum coverage."
-                : "Skill is mapped but subskill-level coverage is incomplete.";
-
+                ? "Skill has a mapped subskill in the curriculum."
+                : "Skill mapping exists but subskill-level coverage is incomplete.";
         String update = coverage.equals("ALIGNED")
-                ? "Validate module content against current market requirements."
-                : "Add or revise module content to cover the required subskill.";
+                ? "Validate the module against current skill requirements."
+                : "Add or revise module content for the required subskill.";
 
+        // requiredLevel is not stored in curriculum_skill_mapping.
+        // It is therefore intentionally reported as null rather than inventing a value.
         return new CurriculumGapResponse(
-                mapping.getSkillId(),
-                skillName,
-                "REQUIRED",
+                mapping.getSkill() == null ? null :
+                        new com.skillup.skillup.features.reference.dto.response.SkillResponse(
+                                mapping.getSkill().getId(),
+                                mapping.getSkill().getSector().getId(),
+                                mapping.getSkill().getName()),
+                null,
                 coverage,
                 gap,
                 update);
