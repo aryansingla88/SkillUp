@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Python Fundamentals Course",
+    "provider": "SkillUp Learning Hub",
+    "url": "https://example.skillup.local/resource/1",
+    "type": "COURSE",
+    "sector_id": 1,
+    "job_role_id": 1
+  },
+  {
+    "id": 2,
+    "name": "SQL Essentials",
+    "provider": "SkillUp Learning Hub",
+    "url": "https://example.skillup.local/resource/2",
+    "type": "COURSE",
+    "sector_id": 1,
+    "job_role_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Practical Git & Version Control",
+    "provider": "Open Learning Lab",
+    "url": "https://example.skillup.local/resource/3",
+    "type": "VIDEO",
+    "sector_id": 1,
+    "job_role_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Cloud Foundations",
+    "provider": "SkillUp Learning Hub",
+    "url": "https://example.skillup.local/resource/4",
+    "type": "COURSE",
+    "sector_id": 1,
+    "job_role_id": 3
+  },
+  {
+    "id": 5,
+    "name": "Data Analysis with Python",
+    "provider": "SkillUp Learning Hub",
+    "url": "https://example.skillup.local/resource/5",
+    "type": "COURSE",
+    "sector_id": 1,
+    "job_role_id": 2
+  },
+  {
+    "id": 6,
+    "name": "EV Diagnostics Basics",
+    "provider": "SkillUp Learning Hub",
+    "url": "https://example.skillup.local/resource/6",
+    "type": "COURSE",
+    "sector_id": 3,
+    "job_role_id": 6
+  },
+  {
+    "id": 7,
+    "name": "Battery Systems Fundamentals",
+    "provider": "Open Learning Lab",
+    "url": "https://example.skillup.local/resource/7",
+    "type": "VIDEO",
+    "sector_id": 3,
+    "job_role_id": 6
+  },
+  {
+    "id": 8,
+    "name": "Solar PV Installation",
+    "provider": "SkillUp Learning Hub",
+    "url": "https://example.skillup.local/resource/8",
+    "type": "COURSE",
+    "sector_id": 4,
+    "job_role_id": 8
+  },
+  {
+    "id": 9,
+    "name": "PV System Design",
+    "provider": "Open Learning Lab",
+    "url": "https://example.skillup.local/resource/9",
+    "type": "VIDEO",
+    "sector_id": 4,
+    "job_role_id": 9
+  },
+  {
+    "id": 10,
+    "name": "AutoCAD for Construction",
+    "provider": "SkillUp Learning Hub",
+    "url": "https://example.skillup.local/resource/10",
+    "type": "COURSE",
+    "sector_id": 6,
+    "job_role_id": 13
+  },
+  {
+    "id": 11,
+    "name": "PLC Automation Basics",
+    "provider": "SkillUp Learning Hub",
+    "url": "https://example.skillup.local/resource/11",
+    "type": "COURSE",
+    "sector_id": 8,
+    "job_role_id": 17
+  },
+  {
+    "id": 12,
+    "name": "CNC Setup & Operation",
+    "provider": "SkillUp Learning Hub",
+    "url": "https://example.skillup.local/resource/12",
+    "type": "COURSE",
+    "sector_id": 8,
+    "job_role_id": 16
+  },
+  {
+    "id": 13,
+    "name": "Healthcare Support Essentials",
+    "provider": "SkillUp Learning Hub",
+    "url": "https://example.skillup.local/resource/13",
+    "type": "COURSE",
+    "sector_id": 5,
+    "job_role_id": 10
+  },
+  {
+    "id": 14,
+    "name": "Banking Operations Fundamentals",
+    "provider": "SkillUp Learning Hub",
+    "url": "https://example.skillup.local/resource/14",
+    "type": "COURSE",
+    "sector_id": 7,
+    "job_role_id": 14
+  },
+  {
+    "id": 15,
+    "name": "Quality Control Fundamentals",
+    "provider": "Open Learning Lab",
+    "url": "https://example.skillup.local/resource/15",
+    "type": "VIDEO",
+    "sector_id": 8,
+    "job_role_id": 18
+  }
+]

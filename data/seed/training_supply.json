@@ -1,0 +1,6098 @@
+[
+  {
+    "id": 1,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 2,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2025,
+    "capacity": 18
+  },
+  {
+    "id": 3,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2026,
+    "capacity": 18
+  },
+  {
+    "id": 4,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 5,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2025,
+    "capacity": 11
+  },
+  {
+    "id": 6,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 7,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 17
+  },
+  {
+    "id": 8,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 9,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 10,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 11,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 27
+  },
+  {
+    "id": 12,
+    "training_centre_id": 1,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 28
+  },
+  {
+    "id": 13,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 14,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2025,
+    "capacity": 8
+  },
+  {
+    "id": 15,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 16,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 17,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 18,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 19,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 30
+  },
+  {
+    "id": 20,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 33
+  },
+  {
+    "id": 21,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 34
+  },
+  {
+    "id": 22,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 23,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 24,
+    "training_centre_id": 2,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 25,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 26,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 27,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2026,
+    "capacity": 11
+  },
+  {
+    "id": 28,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2024,
+    "capacity": 17
+  },
+  {
+    "id": 29,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 30,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2026,
+    "capacity": 19
+  },
+  {
+    "id": 31,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 32,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2025,
+    "capacity": 23
+  },
+  {
+    "id": 33,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 34,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 35,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 8
+  },
+  {
+    "id": 36,
+    "training_centre_id": 1,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 37,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 38,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2025,
+    "capacity": 23
+  },
+  {
+    "id": 39,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2026,
+    "capacity": 24
+  },
+  {
+    "id": 40,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2024,
+    "capacity": 12
+  },
+  {
+    "id": 41,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2025,
+    "capacity": 13
+  },
+  {
+    "id": 42,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2026,
+    "capacity": 14
+  },
+  {
+    "id": 43,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 44,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2025,
+    "capacity": 8
+  },
+  {
+    "id": 45,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 46,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 47,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 48,
+    "training_centre_id": 2,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 49,
+    "training_centre_id": 1,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 19
+  },
+  {
+    "id": 50,
+    "training_centre_id": 1,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 51,
+    "training_centre_id": 1,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 21
+  },
+  {
+    "id": 52,
+    "training_centre_id": 1,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2024,
+    "capacity": 18
+  },
+  {
+    "id": 53,
+    "training_centre_id": 1,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 54,
+    "training_centre_id": 1,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2026,
+    "capacity": 21
+  },
+  {
+    "id": 55,
+    "training_centre_id": 1,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 56,
+    "training_centre_id": 1,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 57,
+    "training_centre_id": 1,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 58,
+    "training_centre_id": 2,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 13
+  },
+  {
+    "id": 59,
+    "training_centre_id": 2,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 14
+  },
+  {
+    "id": 60,
+    "training_centre_id": 2,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 15
+  },
+  {
+    "id": 61,
+    "training_centre_id": 2,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 62,
+    "training_centre_id": 2,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 63,
+    "training_centre_id": 2,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 64,
+    "training_centre_id": 2,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 65,
+    "training_centre_id": 2,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 66,
+    "training_centre_id": 2,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 67,
+    "training_centre_id": 1,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2024,
+    "capacity": 18
+  },
+  {
+    "id": 68,
+    "training_centre_id": 1,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2025,
+    "capacity": 21
+  },
+  {
+    "id": 69,
+    "training_centre_id": 1,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2026,
+    "capacity": 21
+  },
+  {
+    "id": 70,
+    "training_centre_id": 1,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 71,
+    "training_centre_id": 1,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 72,
+    "training_centre_id": 1,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 73,
+    "training_centre_id": 1,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 74,
+    "training_centre_id": 1,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 29
+  },
+  {
+    "id": 75,
+    "training_centre_id": 1,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 34
+  },
+  {
+    "id": 76,
+    "training_centre_id": 2,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 77,
+    "training_centre_id": 2,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2025,
+    "capacity": 24
+  },
+  {
+    "id": 78,
+    "training_centre_id": 2,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 79,
+    "training_centre_id": 2,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 80,
+    "training_centre_id": 2,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 11
+  },
+  {
+    "id": 81,
+    "training_centre_id": 2,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 11
+  },
+  {
+    "id": 82,
+    "training_centre_id": 2,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 11
+  },
+  {
+    "id": 83,
+    "training_centre_id": 2,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 13
+  },
+  {
+    "id": 84,
+    "training_centre_id": 2,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 15
+  },
+  {
+    "id": 85,
+    "training_centre_id": 1,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 26
+  },
+  {
+    "id": 86,
+    "training_centre_id": 1,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 26
+  },
+  {
+    "id": 87,
+    "training_centre_id": 1,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 28
+  },
+  {
+    "id": 88,
+    "training_centre_id": 1,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 89,
+    "training_centre_id": 1,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 90,
+    "training_centre_id": 1,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 28
+  },
+  {
+    "id": 91,
+    "training_centre_id": 2,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 92,
+    "training_centre_id": 2,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 93,
+    "training_centre_id": 2,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 94,
+    "training_centre_id": 2,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 95,
+    "training_centre_id": 2,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 96,
+    "training_centre_id": 2,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 97,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 98,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 99,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 100,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2024,
+    "capacity": 23
+  },
+  {
+    "id": 101,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 102,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 103,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 18
+  },
+  {
+    "id": 104,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 105,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 106,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 7
+  },
+  {
+    "id": 107,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 108,
+    "training_centre_id": 4,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 109,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2024,
+    "capacity": 13
+  },
+  {
+    "id": 110,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2025,
+    "capacity": 15
+  },
+  {
+    "id": 111,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2026,
+    "capacity": 15
+  },
+  {
+    "id": 112,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 113,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 114,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 115,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 116,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 23
+  },
+  {
+    "id": 117,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 118,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 31
+  },
+  {
+    "id": 119,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 31
+  },
+  {
+    "id": 120,
+    "training_centre_id": 5,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 35
+  },
+  {
+    "id": 121,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2024,
+    "capacity": 11
+  },
+  {
+    "id": 122,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 123,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 124,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2024,
+    "capacity": 14
+  },
+  {
+    "id": 125,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2025,
+    "capacity": 16
+  },
+  {
+    "id": 126,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2026,
+    "capacity": 17
+  },
+  {
+    "id": 127,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2024,
+    "capacity": 18
+  },
+  {
+    "id": 128,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 129,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2026,
+    "capacity": 21
+  },
+  {
+    "id": 130,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 11
+  },
+  {
+    "id": 131,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 11
+  },
+  {
+    "id": 132,
+    "training_centre_id": 4,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 133,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2024,
+    "capacity": 21
+  },
+  {
+    "id": 134,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2025,
+    "capacity": 23
+  },
+  {
+    "id": 135,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 1,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 136,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 137,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2025,
+    "capacity": 11
+  },
+  {
+    "id": 138,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 2,
+    "year": 2026,
+    "capacity": 11
+  },
+  {
+    "id": 139,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 140,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2025,
+    "capacity": 24
+  },
+  {
+    "id": 141,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 3,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 142,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 15
+  },
+  {
+    "id": 143,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 16
+  },
+  {
+    "id": 144,
+    "training_centre_id": 5,
+    "job_role_id": 2,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 17
+  },
+  {
+    "id": 145,
+    "training_centre_id": 4,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 23
+  },
+  {
+    "id": 146,
+    "training_centre_id": 4,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 23
+  },
+  {
+    "id": 147,
+    "training_centre_id": 4,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 148,
+    "training_centre_id": 4,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2024,
+    "capacity": 31
+  },
+  {
+    "id": 149,
+    "training_centre_id": 4,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2025,
+    "capacity": 30
+  },
+  {
+    "id": 150,
+    "training_centre_id": 4,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2026,
+    "capacity": 34
+  },
+  {
+    "id": 151,
+    "training_centre_id": 4,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 26
+  },
+  {
+    "id": 152,
+    "training_centre_id": 4,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 26
+  },
+  {
+    "id": 153,
+    "training_centre_id": 4,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 29
+  },
+  {
+    "id": 154,
+    "training_centre_id": 5,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 12
+  },
+  {
+    "id": 155,
+    "training_centre_id": 5,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 156,
+    "training_centre_id": 5,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 13
+  },
+  {
+    "id": 157,
+    "training_centre_id": 5,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 158,
+    "training_centre_id": 5,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 159,
+    "training_centre_id": 5,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2026,
+    "capacity": 11
+  },
+  {
+    "id": 160,
+    "training_centre_id": 5,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 23
+  },
+  {
+    "id": 161,
+    "training_centre_id": 5,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 24
+  },
+  {
+    "id": 162,
+    "training_centre_id": 5,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 163,
+    "training_centre_id": 4,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 164,
+    "training_centre_id": 4,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 165,
+    "training_centre_id": 4,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 166,
+    "training_centre_id": 4,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2024,
+    "capacity": 26
+  },
+  {
+    "id": 167,
+    "training_centre_id": 4,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2025,
+    "capacity": 27
+  },
+  {
+    "id": 168,
+    "training_centre_id": 4,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2026,
+    "capacity": 28
+  },
+  {
+    "id": 169,
+    "training_centre_id": 4,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2024,
+    "capacity": 13
+  },
+  {
+    "id": 170,
+    "training_centre_id": 4,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2025,
+    "capacity": 14
+  },
+  {
+    "id": 171,
+    "training_centre_id": 4,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2026,
+    "capacity": 14
+  },
+  {
+    "id": 172,
+    "training_centre_id": 5,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2024,
+    "capacity": 17
+  },
+  {
+    "id": 173,
+    "training_centre_id": 5,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 174,
+    "training_centre_id": 5,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2026,
+    "capacity": 19
+  },
+  {
+    "id": 175,
+    "training_centre_id": 5,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 176,
+    "training_centre_id": 5,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2025,
+    "capacity": 11
+  },
+  {
+    "id": 177,
+    "training_centre_id": 5,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2026,
+    "capacity": 11
+  },
+  {
+    "id": 178,
+    "training_centre_id": 5,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 179,
+    "training_centre_id": 5,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 180,
+    "training_centre_id": 5,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 181,
+    "training_centre_id": 4,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2024,
+    "capacity": 28
+  },
+  {
+    "id": 182,
+    "training_centre_id": 4,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2025,
+    "capacity": 28
+  },
+  {
+    "id": 183,
+    "training_centre_id": 4,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2026,
+    "capacity": 30
+  },
+  {
+    "id": 184,
+    "training_centre_id": 4,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 185,
+    "training_centre_id": 4,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 186,
+    "training_centre_id": 4,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 187,
+    "training_centre_id": 4,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 188,
+    "training_centre_id": 4,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2025,
+    "capacity": 26
+  },
+  {
+    "id": 189,
+    "training_centre_id": 4,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 190,
+    "training_centre_id": 5,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 191,
+    "training_centre_id": 5,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 192,
+    "training_centre_id": 5,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 193,
+    "training_centre_id": 5,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 194,
+    "training_centre_id": 5,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2025,
+    "capacity": 26
+  },
+  {
+    "id": 195,
+    "training_centre_id": 5,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2026,
+    "capacity": 27
+  },
+  {
+    "id": 196,
+    "training_centre_id": 5,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2024,
+    "capacity": 13
+  },
+  {
+    "id": 197,
+    "training_centre_id": 5,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2025,
+    "capacity": 13
+  },
+  {
+    "id": 198,
+    "training_centre_id": 5,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2026,
+    "capacity": 14
+  },
+  {
+    "id": 199,
+    "training_centre_id": 7,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 200,
+    "training_centre_id": 7,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 201,
+    "training_centre_id": 7,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2026,
+    "capacity": 23
+  },
+  {
+    "id": 202,
+    "training_centre_id": 7,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2024,
+    "capacity": 27
+  },
+  {
+    "id": 203,
+    "training_centre_id": 7,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2025,
+    "capacity": 28
+  },
+  {
+    "id": 204,
+    "training_centre_id": 7,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2026,
+    "capacity": 29
+  },
+  {
+    "id": 205,
+    "training_centre_id": 7,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 21
+  },
+  {
+    "id": 206,
+    "training_centre_id": 7,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 23
+  },
+  {
+    "id": 207,
+    "training_centre_id": 7,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 208,
+    "training_centre_id": 8,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2024,
+    "capacity": 18
+  },
+  {
+    "id": 209,
+    "training_centre_id": 8,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2025,
+    "capacity": 20
+  },
+  {
+    "id": 210,
+    "training_centre_id": 8,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2026,
+    "capacity": 21
+  },
+  {
+    "id": 211,
+    "training_centre_id": 8,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2024,
+    "capacity": 27
+  },
+  {
+    "id": 212,
+    "training_centre_id": 8,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2025,
+    "capacity": 30
+  },
+  {
+    "id": 213,
+    "training_centre_id": 8,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2026,
+    "capacity": 32
+  },
+  {
+    "id": 214,
+    "training_centre_id": 8,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 14
+  },
+  {
+    "id": 215,
+    "training_centre_id": 8,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 16
+  },
+  {
+    "id": 216,
+    "training_centre_id": 8,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 18
+  },
+  {
+    "id": 217,
+    "training_centre_id": 7,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 218,
+    "training_centre_id": 7,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2025,
+    "capacity": 21
+  },
+  {
+    "id": 219,
+    "training_centre_id": 7,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2026,
+    "capacity": 22
+  },
+  {
+    "id": 220,
+    "training_centre_id": 7,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2024,
+    "capacity": 23
+  },
+  {
+    "id": 221,
+    "training_centre_id": 7,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2025,
+    "capacity": 24
+  },
+  {
+    "id": 222,
+    "training_centre_id": 7,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 223,
+    "training_centre_id": 7,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 224,
+    "training_centre_id": 7,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 225,
+    "training_centre_id": 7,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2026,
+    "capacity": 22
+  },
+  {
+    "id": 226,
+    "training_centre_id": 8,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2024,
+    "capacity": 17
+  },
+  {
+    "id": 227,
+    "training_centre_id": 8,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2025,
+    "capacity": 17
+  },
+  {
+    "id": 228,
+    "training_centre_id": 8,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2026,
+    "capacity": 19
+  },
+  {
+    "id": 229,
+    "training_centre_id": 8,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2024,
+    "capacity": 15
+  },
+  {
+    "id": 230,
+    "training_centre_id": 8,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2025,
+    "capacity": 16
+  },
+  {
+    "id": 231,
+    "training_centre_id": 8,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2026,
+    "capacity": 17
+  },
+  {
+    "id": 232,
+    "training_centre_id": 8,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2024,
+    "capacity": 14
+  },
+  {
+    "id": 233,
+    "training_centre_id": 8,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2025,
+    "capacity": 14
+  },
+  {
+    "id": 234,
+    "training_centre_id": 8,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2026,
+    "capacity": 15
+  },
+  {
+    "id": 235,
+    "training_centre_id": 7,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 31
+  },
+  {
+    "id": 236,
+    "training_centre_id": 7,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 32
+  },
+  {
+    "id": 237,
+    "training_centre_id": 7,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 33
+  },
+  {
+    "id": 238,
+    "training_centre_id": 7,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 12
+  },
+  {
+    "id": 239,
+    "training_centre_id": 7,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 240,
+    "training_centre_id": 7,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 13
+  },
+  {
+    "id": 241,
+    "training_centre_id": 8,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 27
+  },
+  {
+    "id": 242,
+    "training_centre_id": 8,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 27
+  },
+  {
+    "id": 243,
+    "training_centre_id": 8,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 30
+  },
+  {
+    "id": 244,
+    "training_centre_id": 8,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 29
+  },
+  {
+    "id": 245,
+    "training_centre_id": 8,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 31
+  },
+  {
+    "id": 246,
+    "training_centre_id": 8,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 32
+  },
+  {
+    "id": 247,
+    "training_centre_id": 7,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2024,
+    "capacity": 14
+  },
+  {
+    "id": 248,
+    "training_centre_id": 7,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2025,
+    "capacity": 14
+  },
+  {
+    "id": 249,
+    "training_centre_id": 7,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2026,
+    "capacity": 15
+  },
+  {
+    "id": 250,
+    "training_centre_id": 7,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 251,
+    "training_centre_id": 7,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 252,
+    "training_centre_id": 7,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 253,
+    "training_centre_id": 7,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 254,
+    "training_centre_id": 7,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 24
+  },
+  {
+    "id": 255,
+    "training_centre_id": 7,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 256,
+    "training_centre_id": 8,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 257,
+    "training_centre_id": 8,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2025,
+    "capacity": 16
+  },
+  {
+    "id": 258,
+    "training_centre_id": 8,
+    "job_role_id": 17,
+    "skill_id": 26,
+    "year": 2026,
+    "capacity": 17
+  },
+  {
+    "id": 259,
+    "training_centre_id": 8,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 260,
+    "training_centre_id": 8,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 261,
+    "training_centre_id": 8,
+    "job_role_id": 17,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 24
+  },
+  {
+    "id": 262,
+    "training_centre_id": 8,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 19
+  },
+  {
+    "id": 263,
+    "training_centre_id": 8,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 21
+  },
+  {
+    "id": 264,
+    "training_centre_id": 8,
+    "job_role_id": 17,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 23
+  },
+  {
+    "id": 265,
+    "training_centre_id": 7,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 266,
+    "training_centre_id": 7,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 17
+  },
+  {
+    "id": 267,
+    "training_centre_id": 7,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 18
+  },
+  {
+    "id": 268,
+    "training_centre_id": 7,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 28
+  },
+  {
+    "id": 269,
+    "training_centre_id": 7,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 31
+  },
+  {
+    "id": 270,
+    "training_centre_id": 7,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 31
+  },
+  {
+    "id": 271,
+    "training_centre_id": 8,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 272,
+    "training_centre_id": 8,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 20
+  },
+  {
+    "id": 273,
+    "training_centre_id": 8,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 22
+  },
+  {
+    "id": 274,
+    "training_centre_id": 8,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 15
+  },
+  {
+    "id": 275,
+    "training_centre_id": 8,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 17
+  },
+  {
+    "id": 276,
+    "training_centre_id": 8,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 17
+  },
+  {
+    "id": 277,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 278,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 26
+  },
+  {
+    "id": 279,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 27
+  },
+  {
+    "id": 280,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 281,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 282,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 283,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 284,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 11
+  },
+  {
+    "id": 285,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 11
+  },
+  {
+    "id": 286,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 287,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 23
+  },
+  {
+    "id": 288,
+    "training_centre_id": 10,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 24
+  },
+  {
+    "id": 289,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 19
+  },
+  {
+    "id": 290,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 20
+  },
+  {
+    "id": 291,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 21
+  },
+  {
+    "id": 292,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2024,
+    "capacity": 12
+  },
+  {
+    "id": 293,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 294,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2026,
+    "capacity": 13
+  },
+  {
+    "id": 295,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 29
+  },
+  {
+    "id": 296,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 31
+  },
+  {
+    "id": 297,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 32
+  },
+  {
+    "id": 298,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 299,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 16
+  },
+  {
+    "id": 300,
+    "training_centre_id": 11,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 18
+  },
+  {
+    "id": 301,
+    "training_centre_id": 10,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 302,
+    "training_centre_id": 10,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 11
+  },
+  {
+    "id": 303,
+    "training_centre_id": 10,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 304,
+    "training_centre_id": 10,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 21
+  },
+  {
+    "id": 305,
+    "training_centre_id": 10,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 306,
+    "training_centre_id": 10,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 23
+  },
+  {
+    "id": 307,
+    "training_centre_id": 10,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 19
+  },
+  {
+    "id": 308,
+    "training_centre_id": 10,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 309,
+    "training_centre_id": 10,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 21
+  },
+  {
+    "id": 310,
+    "training_centre_id": 11,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 311,
+    "training_centre_id": 11,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 8
+  },
+  {
+    "id": 312,
+    "training_centre_id": 11,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 313,
+    "training_centre_id": 11,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 314,
+    "training_centre_id": 11,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 27
+  },
+  {
+    "id": 315,
+    "training_centre_id": 11,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 29
+  },
+  {
+    "id": 316,
+    "training_centre_id": 11,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 317,
+    "training_centre_id": 11,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 318,
+    "training_centre_id": 11,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 319,
+    "training_centre_id": 10,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "capacity": 27
+  },
+  {
+    "id": 320,
+    "training_centre_id": 10,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "capacity": 30
+  },
+  {
+    "id": 321,
+    "training_centre_id": 10,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "capacity": 32
+  },
+  {
+    "id": 322,
+    "training_centre_id": 10,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 323,
+    "training_centre_id": 10,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 324,
+    "training_centre_id": 10,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 325,
+    "training_centre_id": 10,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 326,
+    "training_centre_id": 10,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "capacity": 24
+  },
+  {
+    "id": 327,
+    "training_centre_id": 10,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 328,
+    "training_centre_id": 11,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "capacity": 29
+  },
+  {
+    "id": 329,
+    "training_centre_id": 11,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "capacity": 30
+  },
+  {
+    "id": 330,
+    "training_centre_id": 11,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "capacity": 33
+  },
+  {
+    "id": 331,
+    "training_centre_id": 11,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 29
+  },
+  {
+    "id": 332,
+    "training_centre_id": 11,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 33
+  },
+  {
+    "id": 333,
+    "training_centre_id": 11,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 34
+  },
+  {
+    "id": 334,
+    "training_centre_id": 11,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 335,
+    "training_centre_id": 11,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "capacity": 17
+  },
+  {
+    "id": 336,
+    "training_centre_id": 11,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "capacity": 18
+  },
+  {
+    "id": 337,
+    "training_centre_id": 10,
+    "job_role_id": 9,
+    "skill_id": 14,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 338,
+    "training_centre_id": 10,
+    "job_role_id": 9,
+    "skill_id": 14,
+    "year": 2025,
+    "capacity": 17
+  },
+  {
+    "id": 339,
+    "training_centre_id": 10,
+    "job_role_id": 9,
+    "skill_id": 14,
+    "year": 2026,
+    "capacity": 18
+  },
+  {
+    "id": 340,
+    "training_centre_id": 10,
+    "job_role_id": 9,
+    "skill_id": 13,
+    "year": 2024,
+    "capacity": 26
+  },
+  {
+    "id": 341,
+    "training_centre_id": 10,
+    "job_role_id": 9,
+    "skill_id": 13,
+    "year": 2025,
+    "capacity": 27
+  },
+  {
+    "id": 342,
+    "training_centre_id": 10,
+    "job_role_id": 9,
+    "skill_id": 13,
+    "year": 2026,
+    "capacity": 30
+  },
+  {
+    "id": 343,
+    "training_centre_id": 10,
+    "job_role_id": 9,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 344,
+    "training_centre_id": 10,
+    "job_role_id": 9,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 18
+  },
+  {
+    "id": 345,
+    "training_centre_id": 10,
+    "job_role_id": 9,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 19
+  },
+  {
+    "id": 346,
+    "training_centre_id": 11,
+    "job_role_id": 9,
+    "skill_id": 14,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 347,
+    "training_centre_id": 11,
+    "job_role_id": 9,
+    "skill_id": 14,
+    "year": 2025,
+    "capacity": 26
+  },
+  {
+    "id": 348,
+    "training_centre_id": 11,
+    "job_role_id": 9,
+    "skill_id": 14,
+    "year": 2026,
+    "capacity": 27
+  },
+  {
+    "id": 349,
+    "training_centre_id": 11,
+    "job_role_id": 9,
+    "skill_id": 13,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 350,
+    "training_centre_id": 11,
+    "job_role_id": 9,
+    "skill_id": 13,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 351,
+    "training_centre_id": 11,
+    "job_role_id": 9,
+    "skill_id": 13,
+    "year": 2026,
+    "capacity": 23
+  },
+  {
+    "id": 352,
+    "training_centre_id": 11,
+    "job_role_id": 9,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 23
+  },
+  {
+    "id": 353,
+    "training_centre_id": 11,
+    "job_role_id": 9,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 354,
+    "training_centre_id": 11,
+    "job_role_id": 9,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 355,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 28
+  },
+  {
+    "id": 356,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 30
+  },
+  {
+    "id": 357,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 33
+  },
+  {
+    "id": 358,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2024,
+    "capacity": 19
+  },
+  {
+    "id": 359,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2025,
+    "capacity": 20
+  },
+  {
+    "id": 360,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2026,
+    "capacity": 22
+  },
+  {
+    "id": 361,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 362,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 363,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 364,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 29
+  },
+  {
+    "id": 365,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 31
+  },
+  {
+    "id": 366,
+    "training_centre_id": 13,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 34
+  },
+  {
+    "id": 367,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 368,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 369,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 370,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2024,
+    "capacity": 14
+  },
+  {
+    "id": 371,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2025,
+    "capacity": 14
+  },
+  {
+    "id": 372,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2026,
+    "capacity": 16
+  },
+  {
+    "id": 373,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 374,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 375,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 23
+  },
+  {
+    "id": 376,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 377,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 28
+  },
+  {
+    "id": 378,
+    "training_centre_id": 14,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 30
+  },
+  {
+    "id": 379,
+    "training_centre_id": 13,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2024,
+    "capacity": 27
+  },
+  {
+    "id": 380,
+    "training_centre_id": 13,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2025,
+    "capacity": 28
+  },
+  {
+    "id": 381,
+    "training_centre_id": 13,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2026,
+    "capacity": 29
+  },
+  {
+    "id": 382,
+    "training_centre_id": 13,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 383,
+    "training_centre_id": 13,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 384,
+    "training_centre_id": 13,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 385,
+    "training_centre_id": 14,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 386,
+    "training_centre_id": 14,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 387,
+    "training_centre_id": 14,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 388,
+    "training_centre_id": 14,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2024,
+    "capacity": 31
+  },
+  {
+    "id": 389,
+    "training_centre_id": 14,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2025,
+    "capacity": 30
+  },
+  {
+    "id": 390,
+    "training_centre_id": 14,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2026,
+    "capacity": 31
+  },
+  {
+    "id": 391,
+    "training_centre_id": 13,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2024,
+    "capacity": 30
+  },
+  {
+    "id": 392,
+    "training_centre_id": 13,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2025,
+    "capacity": 30
+  },
+  {
+    "id": 393,
+    "training_centre_id": 13,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2026,
+    "capacity": 30
+  },
+  {
+    "id": 394,
+    "training_centre_id": 13,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 395,
+    "training_centre_id": 13,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2025,
+    "capacity": 16
+  },
+  {
+    "id": 396,
+    "training_centre_id": 13,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2026,
+    "capacity": 17
+  },
+  {
+    "id": 397,
+    "training_centre_id": 13,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2024,
+    "capacity": 26
+  },
+  {
+    "id": 398,
+    "training_centre_id": 13,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2025,
+    "capacity": 28
+  },
+  {
+    "id": 399,
+    "training_centre_id": 13,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2026,
+    "capacity": 28
+  },
+  {
+    "id": 400,
+    "training_centre_id": 14,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2024,
+    "capacity": 26
+  },
+  {
+    "id": 401,
+    "training_centre_id": 14,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 402,
+    "training_centre_id": 14,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 403,
+    "training_centre_id": 14,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2024,
+    "capacity": 28
+  },
+  {
+    "id": 404,
+    "training_centre_id": 14,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2025,
+    "capacity": 29
+  },
+  {
+    "id": 405,
+    "training_centre_id": 14,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2026,
+    "capacity": 29
+  },
+  {
+    "id": 406,
+    "training_centre_id": 14,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2024,
+    "capacity": 33
+  },
+  {
+    "id": 407,
+    "training_centre_id": 14,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2025,
+    "capacity": 34
+  },
+  {
+    "id": 408,
+    "training_centre_id": 14,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2026,
+    "capacity": 34
+  },
+  {
+    "id": 409,
+    "training_centre_id": 13,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 410,
+    "training_centre_id": 13,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 21
+  },
+  {
+    "id": 411,
+    "training_centre_id": 13,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 22
+  },
+  {
+    "id": 412,
+    "training_centre_id": 13,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 15
+  },
+  {
+    "id": 413,
+    "training_centre_id": 13,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 16
+  },
+  {
+    "id": 414,
+    "training_centre_id": 13,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 17
+  },
+  {
+    "id": 415,
+    "training_centre_id": 14,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 28
+  },
+  {
+    "id": 416,
+    "training_centre_id": 14,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 30
+  },
+  {
+    "id": 417,
+    "training_centre_id": 14,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 30
+  },
+  {
+    "id": 418,
+    "training_centre_id": 14,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 19
+  },
+  {
+    "id": 419,
+    "training_centre_id": 14,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 420,
+    "training_centre_id": 14,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 421,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2024,
+    "capacity": 26
+  },
+  {
+    "id": 422,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2025,
+    "capacity": 28
+  },
+  {
+    "id": 423,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2026,
+    "capacity": 29
+  },
+  {
+    "id": 424,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 425,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2025,
+    "capacity": 18
+  },
+  {
+    "id": 426,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2026,
+    "capacity": 19
+  },
+  {
+    "id": 427,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 7
+  },
+  {
+    "id": 428,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 7
+  },
+  {
+    "id": 429,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 8
+  },
+  {
+    "id": 430,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 431,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 21
+  },
+  {
+    "id": 432,
+    "training_centre_id": 16,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 22
+  },
+  {
+    "id": 433,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 434,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2025,
+    "capacity": 17
+  },
+  {
+    "id": 435,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 1,
+    "year": 2026,
+    "capacity": 19
+  },
+  {
+    "id": 436,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2024,
+    "capacity": 11
+  },
+  {
+    "id": 437,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 438,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 2,
+    "year": 2026,
+    "capacity": 13
+  },
+  {
+    "id": 439,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 440,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 441,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 27
+  },
+  {
+    "id": 442,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 443,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 444,
+    "training_centre_id": 17,
+    "job_role_id": 1,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 11
+  },
+  {
+    "id": 445,
+    "training_centre_id": 16,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 446,
+    "training_centre_id": 16,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 447,
+    "training_centre_id": 16,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 23
+  },
+  {
+    "id": 448,
+    "training_centre_id": 16,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 449,
+    "training_centre_id": 16,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 450,
+    "training_centre_id": 16,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 451,
+    "training_centre_id": 16,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 13
+  },
+  {
+    "id": 452,
+    "training_centre_id": 16,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 13
+  },
+  {
+    "id": 453,
+    "training_centre_id": 16,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 14
+  },
+  {
+    "id": 454,
+    "training_centre_id": 17,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2024,
+    "capacity": 27
+  },
+  {
+    "id": 455,
+    "training_centre_id": 17,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2025,
+    "capacity": 31
+  },
+  {
+    "id": 456,
+    "training_centre_id": 17,
+    "job_role_id": 3,
+    "skill_id": 5,
+    "year": 2026,
+    "capacity": 32
+  },
+  {
+    "id": 457,
+    "training_centre_id": 17,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2024,
+    "capacity": 15
+  },
+  {
+    "id": 458,
+    "training_centre_id": 17,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2025,
+    "capacity": 16
+  },
+  {
+    "id": 459,
+    "training_centre_id": 17,
+    "job_role_id": 3,
+    "skill_id": 6,
+    "year": 2026,
+    "capacity": 17
+  },
+  {
+    "id": 460,
+    "training_centre_id": 17,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 461,
+    "training_centre_id": 17,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2025,
+    "capacity": 11
+  },
+  {
+    "id": 462,
+    "training_centre_id": 17,
+    "job_role_id": 3,
+    "skill_id": 4,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 463,
+    "training_centre_id": 16,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2024,
+    "capacity": 28
+  },
+  {
+    "id": 464,
+    "training_centre_id": 16,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2025,
+    "capacity": 29
+  },
+  {
+    "id": 465,
+    "training_centre_id": 16,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2026,
+    "capacity": 31
+  },
+  {
+    "id": 466,
+    "training_centre_id": 16,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2024,
+    "capacity": 14
+  },
+  {
+    "id": 467,
+    "training_centre_id": 16,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2025,
+    "capacity": 15
+  },
+  {
+    "id": 468,
+    "training_centre_id": 16,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2026,
+    "capacity": 15
+  },
+  {
+    "id": 469,
+    "training_centre_id": 17,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2024,
+    "capacity": 17
+  },
+  {
+    "id": 470,
+    "training_centre_id": 17,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2025,
+    "capacity": 20
+  },
+  {
+    "id": 471,
+    "training_centre_id": 17,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 472,
+    "training_centre_id": 17,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2024,
+    "capacity": 18
+  },
+  {
+    "id": 473,
+    "training_centre_id": 17,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2025,
+    "capacity": 20
+  },
+  {
+    "id": 474,
+    "training_centre_id": 17,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 475,
+    "training_centre_id": 16,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2024,
+    "capacity": 33
+  },
+  {
+    "id": 476,
+    "training_centre_id": 16,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2025,
+    "capacity": 34
+  },
+  {
+    "id": 477,
+    "training_centre_id": 16,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2026,
+    "capacity": 35
+  },
+  {
+    "id": 478,
+    "training_centre_id": 16,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 479,
+    "training_centre_id": 16,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2025,
+    "capacity": 23
+  },
+  {
+    "id": 480,
+    "training_centre_id": 16,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2026,
+    "capacity": 23
+  },
+  {
+    "id": 481,
+    "training_centre_id": 16,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 482,
+    "training_centre_id": 16,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 483,
+    "training_centre_id": 16,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 484,
+    "training_centre_id": 17,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2024,
+    "capacity": 12
+  },
+  {
+    "id": 485,
+    "training_centre_id": 17,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2025,
+    "capacity": 13
+  },
+  {
+    "id": 486,
+    "training_centre_id": 17,
+    "job_role_id": 14,
+    "skill_id": 23,
+    "year": 2026,
+    "capacity": 13
+  },
+  {
+    "id": 487,
+    "training_centre_id": 17,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 488,
+    "training_centre_id": 17,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 489,
+    "training_centre_id": 17,
+    "job_role_id": 14,
+    "skill_id": 24,
+    "year": 2026,
+    "capacity": 22
+  },
+  {
+    "id": 490,
+    "training_centre_id": 17,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2024,
+    "capacity": 18
+  },
+  {
+    "id": 491,
+    "training_centre_id": 17,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2025,
+    "capacity": 20
+  },
+  {
+    "id": 492,
+    "training_centre_id": 17,
+    "job_role_id": 14,
+    "skill_id": 22,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 493,
+    "training_centre_id": 16,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 494,
+    "training_centre_id": 16,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2025,
+    "capacity": 23
+  },
+  {
+    "id": 495,
+    "training_centre_id": 16,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 496,
+    "training_centre_id": 16,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2024,
+    "capacity": 15
+  },
+  {
+    "id": 497,
+    "training_centre_id": 16,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2025,
+    "capacity": 15
+  },
+  {
+    "id": 498,
+    "training_centre_id": 16,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2026,
+    "capacity": 16
+  },
+  {
+    "id": 499,
+    "training_centre_id": 16,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2024,
+    "capacity": 11
+  },
+  {
+    "id": 500,
+    "training_centre_id": 16,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 501,
+    "training_centre_id": 16,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 502,
+    "training_centre_id": 17,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2024,
+    "capacity": 31
+  },
+  {
+    "id": 503,
+    "training_centre_id": 17,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2025,
+    "capacity": 31
+  },
+  {
+    "id": 504,
+    "training_centre_id": 17,
+    "job_role_id": 15,
+    "skill_id": 22,
+    "year": 2026,
+    "capacity": 34
+  },
+  {
+    "id": 505,
+    "training_centre_id": 17,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 506,
+    "training_centre_id": 17,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2025,
+    "capacity": 20
+  },
+  {
+    "id": 507,
+    "training_centre_id": 17,
+    "job_role_id": 15,
+    "skill_id": 23,
+    "year": 2026,
+    "capacity": 21
+  },
+  {
+    "id": 508,
+    "training_centre_id": 17,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2024,
+    "capacity": 32
+  },
+  {
+    "id": 509,
+    "training_centre_id": 17,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2025,
+    "capacity": 35
+  },
+  {
+    "id": 510,
+    "training_centre_id": 17,
+    "job_role_id": 15,
+    "skill_id": 24,
+    "year": 2026,
+    "capacity": 35
+  },
+  {
+    "id": 511,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 512,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 23
+  },
+  {
+    "id": 513,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 514,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2024,
+    "capacity": 13
+  },
+  {
+    "id": 515,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2025,
+    "capacity": 14
+  },
+  {
+    "id": 516,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2026,
+    "capacity": 16
+  },
+  {
+    "id": 517,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 23
+  },
+  {
+    "id": 518,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 28
+  },
+  {
+    "id": 519,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 30
+  },
+  {
+    "id": 520,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 521,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 522,
+    "training_centre_id": 19,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 21
+  },
+  {
+    "id": 523,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 15
+  },
+  {
+    "id": 524,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 18
+  },
+  {
+    "id": 525,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 19
+  },
+  {
+    "id": 526,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 527,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2025,
+    "capacity": 27
+  },
+  {
+    "id": 528,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 11,
+    "year": 2026,
+    "capacity": 29
+  },
+  {
+    "id": 529,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 530,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 531,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 532,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 11
+  },
+  {
+    "id": 533,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 13
+  },
+  {
+    "id": 534,
+    "training_centre_id": 20,
+    "job_role_id": 6,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 15
+  },
+  {
+    "id": 535,
+    "training_centre_id": 19,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 536,
+    "training_centre_id": 19,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 11
+  },
+  {
+    "id": 537,
+    "training_centre_id": 19,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 538,
+    "training_centre_id": 19,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 539,
+    "training_centre_id": 19,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 540,
+    "training_centre_id": 19,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 541,
+    "training_centre_id": 19,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 542,
+    "training_centre_id": 19,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 543,
+    "training_centre_id": 19,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 13
+  },
+  {
+    "id": 544,
+    "training_centre_id": 20,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 545,
+    "training_centre_id": 20,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 11
+  },
+  {
+    "id": 546,
+    "training_centre_id": 20,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 547,
+    "training_centre_id": 20,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 12
+  },
+  {
+    "id": 548,
+    "training_centre_id": 20,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 13
+  },
+  {
+    "id": 549,
+    "training_centre_id": 20,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 15
+  },
+  {
+    "id": 550,
+    "training_centre_id": 20,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 23
+  },
+  {
+    "id": 551,
+    "training_centre_id": 20,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 552,
+    "training_centre_id": 20,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 29
+  },
+  {
+    "id": 553,
+    "training_centre_id": 19,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 13
+  },
+  {
+    "id": 554,
+    "training_centre_id": 19,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 14
+  },
+  {
+    "id": 555,
+    "training_centre_id": 19,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 15
+  },
+  {
+    "id": 556,
+    "training_centre_id": 19,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 7
+  },
+  {
+    "id": 557,
+    "training_centre_id": 19,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 8
+  },
+  {
+    "id": 558,
+    "training_centre_id": 19,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 8
+  },
+  {
+    "id": 559,
+    "training_centre_id": 20,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 21
+  },
+  {
+    "id": 560,
+    "training_centre_id": 20,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 21
+  },
+  {
+    "id": 561,
+    "training_centre_id": 20,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 23
+  },
+  {
+    "id": 562,
+    "training_centre_id": 20,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 31
+  },
+  {
+    "id": 563,
+    "training_centre_id": 20,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 33
+  },
+  {
+    "id": 564,
+    "training_centre_id": 20,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 34
+  },
+  {
+    "id": 565,
+    "training_centre_id": 19,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 566,
+    "training_centre_id": 19,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 567,
+    "training_centre_id": 19,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 568,
+    "training_centre_id": 19,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 12
+  },
+  {
+    "id": 569,
+    "training_centre_id": 19,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 570,
+    "training_centre_id": 19,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 13
+  },
+  {
+    "id": 571,
+    "training_centre_id": 20,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 14
+  },
+  {
+    "id": 572,
+    "training_centre_id": 20,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 15
+  },
+  {
+    "id": 573,
+    "training_centre_id": 20,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 16
+  },
+  {
+    "id": 574,
+    "training_centre_id": 20,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 15
+  },
+  {
+    "id": 575,
+    "training_centre_id": 20,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 16
+  },
+  {
+    "id": 576,
+    "training_centre_id": 20,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 17
+  },
+  {
+    "id": 577,
+    "training_centre_id": 22,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 578,
+    "training_centre_id": 22,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2025,
+    "capacity": 8
+  },
+  {
+    "id": 579,
+    "training_centre_id": 22,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2026,
+    "capacity": 8
+  },
+  {
+    "id": 580,
+    "training_centre_id": 22,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2024,
+    "capacity": 12
+  },
+  {
+    "id": 581,
+    "training_centre_id": 22,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 582,
+    "training_centre_id": 22,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 583,
+    "training_centre_id": 23,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2024,
+    "capacity": 21
+  },
+  {
+    "id": 584,
+    "training_centre_id": 23,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2025,
+    "capacity": 20
+  },
+  {
+    "id": 585,
+    "training_centre_id": 23,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2026,
+    "capacity": 21
+  },
+  {
+    "id": 586,
+    "training_centre_id": 23,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 587,
+    "training_centre_id": 23,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2025,
+    "capacity": 24
+  },
+  {
+    "id": 588,
+    "training_centre_id": 23,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 589,
+    "training_centre_id": 22,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2024,
+    "capacity": 19
+  },
+  {
+    "id": 590,
+    "training_centre_id": 22,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 591,
+    "training_centre_id": 22,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2026,
+    "capacity": 19
+  },
+  {
+    "id": 592,
+    "training_centre_id": 22,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2024,
+    "capacity": 26
+  },
+  {
+    "id": 593,
+    "training_centre_id": 22,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2025,
+    "capacity": 26
+  },
+  {
+    "id": 594,
+    "training_centre_id": 22,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2026,
+    "capacity": 27
+  },
+  {
+    "id": 595,
+    "training_centre_id": 23,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 596,
+    "training_centre_id": 23,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2025,
+    "capacity": 24
+  },
+  {
+    "id": 597,
+    "training_centre_id": 23,
+    "job_role_id": 11,
+    "skill_id": 17,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 598,
+    "training_centre_id": 23,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2024,
+    "capacity": 18
+  },
+  {
+    "id": 599,
+    "training_centre_id": 23,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2025,
+    "capacity": 18
+  },
+  {
+    "id": 600,
+    "training_centre_id": 23,
+    "job_role_id": 11,
+    "skill_id": 18,
+    "year": 2026,
+    "capacity": 18
+  },
+  {
+    "id": 601,
+    "training_centre_id": 22,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2024,
+    "capacity": 12
+  },
+  {
+    "id": 602,
+    "training_centre_id": 22,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 603,
+    "training_centre_id": 22,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 604,
+    "training_centre_id": 22,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2024,
+    "capacity": 28
+  },
+  {
+    "id": 605,
+    "training_centre_id": 22,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2025,
+    "capacity": 30
+  },
+  {
+    "id": 606,
+    "training_centre_id": 22,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2026,
+    "capacity": 30
+  },
+  {
+    "id": 607,
+    "training_centre_id": 22,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2024,
+    "capacity": 32
+  },
+  {
+    "id": 608,
+    "training_centre_id": 22,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2025,
+    "capacity": 33
+  },
+  {
+    "id": 609,
+    "training_centre_id": 22,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2026,
+    "capacity": 35
+  },
+  {
+    "id": 610,
+    "training_centre_id": 23,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2024,
+    "capacity": 23
+  },
+  {
+    "id": 611,
+    "training_centre_id": 23,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2025,
+    "capacity": 23
+  },
+  {
+    "id": 612,
+    "training_centre_id": 23,
+    "job_role_id": 12,
+    "skill_id": 20,
+    "year": 2026,
+    "capacity": 24
+  },
+  {
+    "id": 613,
+    "training_centre_id": 23,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2024,
+    "capacity": 27
+  },
+  {
+    "id": 614,
+    "training_centre_id": 23,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2025,
+    "capacity": 26
+  },
+  {
+    "id": 615,
+    "training_centre_id": 23,
+    "job_role_id": 12,
+    "skill_id": 21,
+    "year": 2026,
+    "capacity": 27
+  },
+  {
+    "id": 616,
+    "training_centre_id": 23,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2024,
+    "capacity": 28
+  },
+  {
+    "id": 617,
+    "training_centre_id": 23,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2025,
+    "capacity": 28
+  },
+  {
+    "id": 618,
+    "training_centre_id": 23,
+    "job_role_id": 12,
+    "skill_id": 19,
+    "year": 2026,
+    "capacity": 28
+  },
+  {
+    "id": 619,
+    "training_centre_id": 22,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "capacity": 26
+  },
+  {
+    "id": 620,
+    "training_centre_id": 22,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "capacity": 26
+  },
+  {
+    "id": 621,
+    "training_centre_id": 22,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "capacity": 29
+  },
+  {
+    "id": 622,
+    "training_centre_id": 22,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 27
+  },
+  {
+    "id": 623,
+    "training_centre_id": 22,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 29
+  },
+  {
+    "id": 624,
+    "training_centre_id": 22,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 31
+  },
+  {
+    "id": 625,
+    "training_centre_id": 22,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 626,
+    "training_centre_id": 22,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 627,
+    "training_centre_id": 22,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 628,
+    "training_centre_id": 23,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "capacity": 20
+  },
+  {
+    "id": 629,
+    "training_centre_id": 23,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "capacity": 20
+  },
+  {
+    "id": 630,
+    "training_centre_id": 23,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "capacity": 22
+  },
+  {
+    "id": 631,
+    "training_centre_id": 23,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 31
+  },
+  {
+    "id": 632,
+    "training_centre_id": 23,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 33
+  },
+  {
+    "id": 633,
+    "training_centre_id": 23,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 35
+  },
+  {
+    "id": 634,
+    "training_centre_id": 23,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "capacity": 29
+  },
+  {
+    "id": 635,
+    "training_centre_id": 23,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "capacity": 31
+  },
+  {
+    "id": 636,
+    "training_centre_id": 23,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "capacity": 32
+  },
+  {
+    "id": 637,
+    "training_centre_id": 25,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 28
+  },
+  {
+    "id": 638,
+    "training_centre_id": 25,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 31
+  },
+  {
+    "id": 639,
+    "training_centre_id": 25,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 35
+  },
+  {
+    "id": 640,
+    "training_centre_id": 25,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 641,
+    "training_centre_id": 25,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 642,
+    "training_centre_id": 25,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 29
+  },
+  {
+    "id": 643,
+    "training_centre_id": 25,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 644,
+    "training_centre_id": 25,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 28
+  },
+  {
+    "id": 645,
+    "training_centre_id": 25,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 33
+  },
+  {
+    "id": 646,
+    "training_centre_id": 26,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2024,
+    "capacity": 19
+  },
+  {
+    "id": 647,
+    "training_centre_id": 26,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 648,
+    "training_centre_id": 26,
+    "job_role_id": 7,
+    "skill_id": 12,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 649,
+    "training_centre_id": 26,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 650,
+    "training_centre_id": 26,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2025,
+    "capacity": 18
+  },
+  {
+    "id": 651,
+    "training_centre_id": 26,
+    "job_role_id": 7,
+    "skill_id": 10,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 652,
+    "training_centre_id": 26,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 653,
+    "training_centre_id": 26,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 18
+  },
+  {
+    "id": 654,
+    "training_centre_id": 26,
+    "job_role_id": 7,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 655,
+    "training_centre_id": 25,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 656,
+    "training_centre_id": 25,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "capacity": 18
+  },
+  {
+    "id": 657,
+    "training_centre_id": 25,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 658,
+    "training_centre_id": 25,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 659,
+    "training_centre_id": 25,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 660,
+    "training_centre_id": 25,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 661,
+    "training_centre_id": 25,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 662,
+    "training_centre_id": 25,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 663,
+    "training_centre_id": 25,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "capacity": 11
+  },
+  {
+    "id": 664,
+    "training_centre_id": 26,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "capacity": 19
+  },
+  {
+    "id": 665,
+    "training_centre_id": 26,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "capacity": 21
+  },
+  {
+    "id": 666,
+    "training_centre_id": 26,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "capacity": 23
+  },
+  {
+    "id": 667,
+    "training_centre_id": 26,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 22
+  },
+  {
+    "id": 668,
+    "training_centre_id": 26,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 669,
+    "training_centre_id": 26,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 28
+  },
+  {
+    "id": 670,
+    "training_centre_id": 26,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 671,
+    "training_centre_id": 26,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 672,
+    "training_centre_id": 26,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 673,
+    "training_centre_id": 25,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 674,
+    "training_centre_id": 25,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 8
+  },
+  {
+    "id": 675,
+    "training_centre_id": 25,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 676,
+    "training_centre_id": 25,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 12
+  },
+  {
+    "id": 677,
+    "training_centre_id": 25,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 13
+  },
+  {
+    "id": 678,
+    "training_centre_id": 25,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 14
+  },
+  {
+    "id": 679,
+    "training_centre_id": 26,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 680,
+    "training_centre_id": 26,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 681,
+    "training_centre_id": 26,
+    "job_role_id": 16,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 682,
+    "training_centre_id": 26,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 13
+  },
+  {
+    "id": 683,
+    "training_centre_id": 26,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 13
+  },
+  {
+    "id": 684,
+    "training_centre_id": 26,
+    "job_role_id": 16,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 14
+  },
+  {
+    "id": 685,
+    "training_centre_id": 25,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 21
+  },
+  {
+    "id": 686,
+    "training_centre_id": 25,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 22
+  },
+  {
+    "id": 687,
+    "training_centre_id": 25,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 22
+  },
+  {
+    "id": 688,
+    "training_centre_id": 25,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 13
+  },
+  {
+    "id": 689,
+    "training_centre_id": 25,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 690,
+    "training_centre_id": 25,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 13
+  },
+  {
+    "id": 691,
+    "training_centre_id": 26,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 692,
+    "training_centre_id": 26,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 693,
+    "training_centre_id": 26,
+    "job_role_id": 18,
+    "skill_id": 27,
+    "year": 2026,
+    "capacity": 11
+  },
+  {
+    "id": 694,
+    "training_centre_id": 26,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 695,
+    "training_centre_id": 26,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2025,
+    "capacity": 17
+  },
+  {
+    "id": 696,
+    "training_centre_id": 26,
+    "job_role_id": 18,
+    "skill_id": 25,
+    "year": 2026,
+    "capacity": 18
+  },
+  {
+    "id": 697,
+    "training_centre_id": 28,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 698,
+    "training_centre_id": 28,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 699,
+    "training_centre_id": 28,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2026,
+    "capacity": 27
+  },
+  {
+    "id": 700,
+    "training_centre_id": 28,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 701,
+    "training_centre_id": 28,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2025,
+    "capacity": 9
+  },
+  {
+    "id": 702,
+    "training_centre_id": 28,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2026,
+    "capacity": 9
+  },
+  {
+    "id": 703,
+    "training_centre_id": 28,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 704,
+    "training_centre_id": 28,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 705,
+    "training_centre_id": 28,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 11
+  },
+  {
+    "id": 706,
+    "training_centre_id": 29,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2024,
+    "capacity": 8
+  },
+  {
+    "id": 707,
+    "training_centre_id": 29,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2025,
+    "capacity": 8
+  },
+  {
+    "id": 708,
+    "training_centre_id": 29,
+    "job_role_id": 4,
+    "skill_id": 7,
+    "year": 2026,
+    "capacity": 8
+  },
+  {
+    "id": 709,
+    "training_centre_id": 29,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 710,
+    "training_centre_id": 29,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 711,
+    "training_centre_id": 29,
+    "job_role_id": 4,
+    "skill_id": 9,
+    "year": 2026,
+    "capacity": 26
+  },
+  {
+    "id": 712,
+    "training_centre_id": 29,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 713,
+    "training_centre_id": 29,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 714,
+    "training_centre_id": 29,
+    "job_role_id": 4,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 715,
+    "training_centre_id": 28,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2024,
+    "capacity": 23
+  },
+  {
+    "id": 716,
+    "training_centre_id": 28,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 717,
+    "training_centre_id": 28,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2026,
+    "capacity": 25
+  },
+  {
+    "id": 718,
+    "training_centre_id": 28,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2024,
+    "capacity": 11
+  },
+  {
+    "id": 719,
+    "training_centre_id": 28,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 720,
+    "training_centre_id": 28,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2026,
+    "capacity": 11
+  },
+  {
+    "id": 721,
+    "training_centre_id": 28,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2024,
+    "capacity": 18
+  },
+  {
+    "id": 722,
+    "training_centre_id": 28,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 723,
+    "training_centre_id": 28,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2026,
+    "capacity": 19
+  },
+  {
+    "id": 724,
+    "training_centre_id": 29,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 725,
+    "training_centre_id": 29,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 726,
+    "training_centre_id": 29,
+    "job_role_id": 5,
+    "skill_id": 8,
+    "year": 2026,
+    "capacity": 27
+  },
+  {
+    "id": 727,
+    "training_centre_id": 29,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2024,
+    "capacity": 7
+  },
+  {
+    "id": 728,
+    "training_centre_id": 29,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2025,
+    "capacity": 8
+  },
+  {
+    "id": 729,
+    "training_centre_id": 29,
+    "job_role_id": 5,
+    "skill_id": 7,
+    "year": 2026,
+    "capacity": 8
+  },
+  {
+    "id": 730,
+    "training_centre_id": 29,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2024,
+    "capacity": 9
+  },
+  {
+    "id": 731,
+    "training_centre_id": 29,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2025,
+    "capacity": 10
+  },
+  {
+    "id": 732,
+    "training_centre_id": 29,
+    "job_role_id": 5,
+    "skill_id": 9,
+    "year": 2026,
+    "capacity": 10
+  },
+  {
+    "id": 733,
+    "training_centre_id": 28,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "capacity": 30
+  },
+  {
+    "id": 734,
+    "training_centre_id": 28,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "capacity": 33
+  },
+  {
+    "id": 735,
+    "training_centre_id": 28,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "capacity": 35
+  },
+  {
+    "id": 736,
+    "training_centre_id": 28,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 12
+  },
+  {
+    "id": 737,
+    "training_centre_id": 28,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 14
+  },
+  {
+    "id": 738,
+    "training_centre_id": 28,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 14
+  },
+  {
+    "id": 739,
+    "training_centre_id": 28,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 740,
+    "training_centre_id": 28,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "capacity": 25
+  },
+  {
+    "id": 741,
+    "training_centre_id": 28,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "capacity": 27
+  },
+  {
+    "id": 742,
+    "training_centre_id": 29,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2024,
+    "capacity": 17
+  },
+  {
+    "id": 743,
+    "training_centre_id": 29,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2025,
+    "capacity": 18
+  },
+  {
+    "id": 744,
+    "training_centre_id": 29,
+    "job_role_id": 8,
+    "skill_id": 13,
+    "year": 2026,
+    "capacity": 20
+  },
+  {
+    "id": 745,
+    "training_centre_id": 29,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2024,
+    "capacity": 10
+  },
+  {
+    "id": 746,
+    "training_centre_id": 29,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2025,
+    "capacity": 12
+  },
+  {
+    "id": 747,
+    "training_centre_id": 29,
+    "job_role_id": 8,
+    "skill_id": 15,
+    "year": 2026,
+    "capacity": 12
+  },
+  {
+    "id": 748,
+    "training_centre_id": 29,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2024,
+    "capacity": 24
+  },
+  {
+    "id": 749,
+    "training_centre_id": 29,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2025,
+    "capacity": 26
+  },
+  {
+    "id": 750,
+    "training_centre_id": 29,
+    "job_role_id": 8,
+    "skill_id": 14,
+    "year": 2026,
+    "capacity": 28
+  },
+  {
+    "id": 751,
+    "training_centre_id": 28,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2024,
+    "capacity": 16
+  },
+  {
+    "id": 752,
+    "training_centre_id": 28,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2025,
+    "capacity": 16
+  },
+  {
+    "id": 753,
+    "training_centre_id": 28,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2026,
+    "capacity": 16
+  },
+  {
+    "id": 754,
+    "training_centre_id": 28,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2024,
+    "capacity": 18
+  },
+  {
+    "id": 755,
+    "training_centre_id": 28,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2025,
+    "capacity": 18
+  },
+  {
+    "id": 756,
+    "training_centre_id": 28,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2026,
+    "capacity": 19
+  },
+  {
+    "id": 757,
+    "training_centre_id": 29,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2024,
+    "capacity": 25
+  },
+  {
+    "id": 758,
+    "training_centre_id": 29,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2025,
+    "capacity": 26
+  },
+  {
+    "id": 759,
+    "training_centre_id": 29,
+    "job_role_id": 10,
+    "skill_id": 16,
+    "year": 2026,
+    "capacity": 27
+  },
+  {
+    "id": 760,
+    "training_centre_id": 29,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2024,
+    "capacity": 19
+  },
+  {
+    "id": 761,
+    "training_centre_id": 29,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2025,
+    "capacity": 19
+  },
+  {
+    "id": 762,
+    "training_centre_id": 29,
+    "job_role_id": 10,
+    "skill_id": 18,
+    "year": 2026,
+    "capacity": 19
+  }
+]

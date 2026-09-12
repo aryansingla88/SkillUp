@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "user_id": 4,
+    "district_id": 1,
+    "education": "B.Tech",
+    "career_goal_job_role_id": 2
+  },
+  {
+    "id": 2,
+    "user_id": 101,
+    "district_id": 1,
+    "education": "B.Tech",
+    "career_goal_job_role_id": 12
+  },
+  {
+    "id": 3,
+    "user_id": 102,
+    "district_id": 2,
+    "education": "B.Tech",
+    "career_goal_job_role_id": 1
+  },
+  {
+    "id": 4,
+    "user_id": 103,
+    "district_id": 3,
+    "education": "B.Sc",
+    "career_goal_job_role_id": 3
+  },
+  {
+    "id": 5,
+    "user_id": 104,
+    "district_id": 4,
+    "education": "B.Sc",
+    "career_goal_job_role_id": 4
+  },
+  {
+    "id": 6,
+    "user_id": 105,
+    "district_id": 5,
+    "education": "B.Com",
+    "career_goal_job_role_id": 8
+  },
+  {
+    "id": 7,
+    "user_id": 106,
+    "district_id": 6,
+    "education": "B.Tech",
+    "career_goal_job_role_id": 12
+  },
+  {
+    "id": 8,
+    "user_id": 107,
+    "district_id": 7,
+    "education": "B.Voc",
+    "career_goal_job_role_id": 18
+  },
+  {
+    "id": 9,
+    "user_id": 108,
+    "district_id": 8,
+    "education": "ITI Diploma",
+    "career_goal_job_role_id": 17
+  },
+  {
+    "id": 10,
+    "user_id": 109,
+    "district_id": 9,
+    "education": "ITI Diploma",
+    "career_goal_job_role_id": 4
+  },
+  {
+    "id": 11,
+    "user_id": 110,
+    "district_id": 10,
+    "education": "B.Com",
+    "career_goal_job_role_id": 12
+  },
+  {
+    "id": 12,
+    "user_id": 111,
+    "district_id": 1,
+    "education": "12th Pass",
+    "career_goal_job_role_id": 16
+  },
+  {
+    "id": 13,
+    "user_id": 112,
+    "district_id": 2,
+    "education": "B.Tech",
+    "career_goal_job_role_id": 17
+  },
+  {
+    "id": 14,
+    "user_id": 113,
+    "district_id": 3,
+    "education": "B.Voc",
+    "career_goal_job_role_id": 7
+  },
+  {
+    "id": 15,
+    "user_id": 114,
+    "district_id": 4,
+    "education": "B.Tech",
+    "career_goal_job_role_id": 9
+  },
+  {
+    "id": 16,
+    "user_id": 115,
+    "district_id": 5,
+    "education": "B.Tech",
+    "career_goal_job_role_id": 15
+  },
+  {
+    "id": 17,
+    "user_id": 116,
+    "district_id": 6,
+    "education": "12th Pass",
+    "career_goal_job_role_id": 6
+  },
+  {
+    "id": 18,
+    "user_id": 117,
+    "district_id": 7,
+    "education": "Polytechnic Diploma",
+    "career_goal_job_role_id": 3
+  },
+  {
+    "id": 19,
+    "user_id": 118,
+    "district_id": 8,
+    "education": "B.Sc",
+    "career_goal_job_role_id": 7
+  },
+  {
+    "id": 20,
+    "user_id": 119,
+    "district_id": 9,
+    "education": "B.Tech",
+    "career_goal_job_role_id": 9
+  },
+  {
+    "id": 21,
+    "user_id": 120,
+    "district_id": 10,
+    "education": "ITI Diploma",
+    "career_goal_job_role_id": 7
+  },
+  {
+    "id": 22,
+    "user_id": 121,
+    "district_id": 1,
+    "education": "Polytechnic Diploma",
+    "career_goal_job_role_id": 15
+  },
+  {
+    "id": 23,
+    "user_id": 122,
+    "district_id": 2,
+    "education": "B.Sc",
+    "career_goal_job_role_id": 15
+  },
+  {
+    "id": 24,
+    "user_id": 123,
+    "district_id": 3,
+    "education": "B.Tech",
+    "career_goal_job_role_id": 15
+  },
+  {
+    "id": 25,
+    "user_id": 124,
+    "district_id": 4,
+    "education": "12th Pass",
+    "career_goal_job_role_id": 4
+  }
+]
