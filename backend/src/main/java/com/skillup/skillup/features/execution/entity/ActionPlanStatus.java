@@ -1,0 +1,1 @@
+package com.skillup.skillup.features.execution.entity; public enum ActionPlanStatus { DRAFT, APPROVED, IN_PROGRESS, COMPLETED }
