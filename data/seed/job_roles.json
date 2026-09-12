@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "sector_id": 1,
+    "name": "Software Developer"
+  },
+  {
+    "id": 2,
+    "sector_id": 1,
+    "name": "Data Analyst"
+  },
+  {
+    "id": 3,
+    "sector_id": 1,
+    "name": "Cloud Support Associate"
+  },
+  {
+    "id": 4,
+    "sector_id": 2,
+    "name": "Electronics Technician"
+  },
+  {
+    "id": 5,
+    "sector_id": 2,
+    "name": "Embedded Systems Technician"
+  },
+  {
+    "id": 6,
+    "sector_id": 3,
+    "name": "EV Service Technician"
+  },
+  {
+    "id": 7,
+    "sector_id": 3,
+    "name": "Automotive Technician"
+  },
+  {
+    "id": 8,
+    "sector_id": 4,
+    "name": "Solar PV Technician"
+  },
+  {
+    "id": 9,
+    "sector_id": 4,
+    "name": "Renewable Energy Technician"
+  },
+  {
+    "id": 10,
+    "sector_id": 5,
+    "name": "Healthcare Assistant"
+  },
+  {
+    "id": 11,
+    "sector_id": 5,
+    "name": "Medical Laboratory Technician"
+  },
+  {
+    "id": 12,
+    "sector_id": 6,
+    "name": "Construction Supervisor"
+  },
+  {
+    "id": 13,
+    "sector_id": 6,
+    "name": "CAD Technician"
+  },
+  {
+    "id": 14,
+    "sector_id": 7,
+    "name": "Banking Operations Associate"
+  },
+  {
+    "id": 15,
+    "sector_id": 7,
+    "name": "Financial Services Associate"
+  },
+  {
+    "id": 16,
+    "sector_id": 8,
+    "name": "CNC Machine Operator"
+  },
+  {
+    "id": 17,
+    "sector_id": 8,
+    "name": "Industrial Automation Technician"
+  },
+  {
+    "id": 18,
+    "sector_id": 8,
+    "name": "Quality Technician"
+  }
+]

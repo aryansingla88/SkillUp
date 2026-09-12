@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "candidate_id": 1,
+    "learning_resource_id": 1,
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": 2,
+    "candidate_id": 1,
+    "learning_resource_id": 2,
+    "status": "IN_PROGRESS",
+    "progress": 60
+  },
+  {
+    "id": 3,
+    "candidate_id": 1,
+    "learning_resource_id": 3,
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": 4,
+    "candidate_id": 4,
+    "learning_resource_id": 2,
+    "status": "IN_PROGRESS",
+    "progress": 33
+  },
+  {
+    "id": 5,
+    "candidate_id": 4,
+    "learning_resource_id": 1,
+    "status": "PLANNED",
+    "progress": 0
+  },
+  {
+    "id": 6,
+    "candidate_id": 4,
+    "learning_resource_id": 3,
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": 7,
+    "candidate_id": 6,
+    "learning_resource_id": 9,
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": 8,
+    "candidate_id": 6,
+    "learning_resource_id": 8,
+    "status": "PLANNED",
+    "progress": 0
+  },
+  {
+    "id": 9,
+    "candidate_id": 7,
+    "learning_resource_id": 10,
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": 10,
+    "candidate_id": 9,
+    "learning_resource_id": 11,
+    "status": "IN_PROGRESS",
+    "progress": 45
+  },
+  {
+    "id": 11,
+    "candidate_id": 9,
+    "learning_resource_id": 15,
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": 12,
+    "candidate_id": 9,
+    "learning_resource_id": 12,
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": 13,
+    "candidate_id": 11,
+    "learning_resource_id": 10,
+    "status": "PLANNED",
+    "progress": 0
+  },
+  {
+    "id": 14,
+    "candidate_id": 12,
+    "learning_resource_id": 15,
+    "status": "IN_PROGRESS",
+    "progress": 42
+  },
+  {
+    "id": 15,
+    "candidate_id": 13,
+    "learning_resource_id": 15,
+    "status": "PLANNED",
+    "progress": 0
+  },
+  {
+    "id": 16,
+    "candidate_id": 13,
+    "learning_resource_id": 11,
+    "status": "IN_PROGRESS",
+    "progress": 79
+  },
+  {
+    "id": 17,
+    "candidate_id": 13,
+    "learning_resource_id": 12,
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": 18,
+    "candidate_id": 14,
+    "learning_resource_id": 6,
+    "status": "PLANNED",
+    "progress": 0
+  },
+  {
+    "id": 19,
+    "candidate_id": 15,
+    "learning_resource_id": 8,
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": 20,
+    "candidate_id": 15,
+    "learning_resource_id": 9,
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": 21,
+    "candidate_id": 16,
+    "learning_resource_id": 14,
+    "status": "PLANNED",
+    "progress": 0
+  },
+  {
+    "id": 22,
+    "candidate_id": 18,
+    "learning_resource_id": 5,
+    "status": "PLANNED",
+    "progress": 0
+  },
+  {
+    "id": 23,
+    "candidate_id": 20,
+    "learning_resource_id": 9,
+    "status": "IN_PROGRESS",
+    "progress": 40
+  },
+  {
+    "id": 24,
+    "candidate_id": 21,
+    "learning_resource_id": 6,
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": 25,
+    "candidate_id": 22,
+    "learning_resource_id": 14,
+    "status": "IN_PROGRESS",
+    "progress": 12
+  },
+  {
+    "id": 26,
+    "candidate_id": 24,
+    "learning_resource_id": 14,
+    "status": "COMPLETED",
+    "progress": 100
+  }
+]
