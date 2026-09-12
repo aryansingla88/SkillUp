@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "sector_id": 1,
+    "name": "Python Programming"
+  },
+  {
+    "id": 2,
+    "sector_id": 1,
+    "name": "SQL"
+  },
+  {
+    "id": 3,
+    "sector_id": 1,
+    "name": "Data Analysis"
+  },
+  {
+    "id": 4,
+    "sector_id": 1,
+    "name": "Git & Version Control"
+  },
+  {
+    "id": 5,
+    "sector_id": 1,
+    "name": "Cloud Computing"
+  },
+  {
+    "id": 6,
+    "sector_id": 1,
+    "name": "Cybersecurity Fundamentals"
+  },
+  {
+    "id": 7,
+    "sector_id": 2,
+    "name": "Circuit Design"
+  },
+  {
+    "id": 8,
+    "sector_id": 2,
+    "name": "Embedded Systems"
+  },
+  {
+    "id": 9,
+    "sector_id": 2,
+    "name": "PCB Testing"
+  },
+  {
+    "id": 10,
+    "sector_id": 3,
+    "name": "EV Diagnostics"
+  },
+  {
+    "id": 11,
+    "sector_id": 3,
+    "name": "Battery Systems"
+  },
+  {
+    "id": 12,
+    "sector_id": 3,
+    "name": "Automotive Electrical Systems"
+  },
+  {
+    "id": 13,
+    "sector_id": 4,
+    "name": "Solar PV Installation"
+  },
+  {
+    "id": 14,
+    "sector_id": 4,
+    "name": "Solar System Design"
+  },
+  {
+    "id": 15,
+    "sector_id": 4,
+    "name": "Electrical Safety"
+  },
+  {
+    "id": 16,
+    "sector_id": 5,
+    "name": "Patient Care"
+  },
+  {
+    "id": 17,
+    "sector_id": 5,
+    "name": "Medical Laboratory Procedures"
+  },
+  {
+    "id": 18,
+    "sector_id": 5,
+    "name": "Healthcare Documentation"
+  },
+  {
+    "id": 19,
+    "sector_id": 6,
+    "name": "AutoCAD"
+  },
+  {
+    "id": 20,
+    "sector_id": 6,
+    "name": "Construction Planning"
+  },
+  {
+    "id": 21,
+    "sector_id": 6,
+    "name": "Site Safety"
+  },
+  {
+    "id": 22,
+    "sector_id": 7,
+    "name": "Financial Analysis"
+  },
+  {
+    "id": 23,
+    "sector_id": 7,
+    "name": "Banking Operations"
+  },
+  {
+    "id": 24,
+    "sector_id": 7,
+    "name": "Customer Service"
+  },
+  {
+    "id": 25,
+    "sector_id": 8,
+    "name": "CNC Operation"
+  },
+  {
+    "id": 26,
+    "sector_id": 8,
+    "name": "Industrial Automation"
+  },
+  {
+    "id": 27,
+    "sector_id": 8,
+    "name": "Quality Control"
+  }
+]

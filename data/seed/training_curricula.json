@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Software Development Foundations",
+    "version": "2026.1"
+  },
+  {
+    "id": 2,
+    "name": "EV Service Technician",
+    "version": "2026.1"
+  },
+  {
+    "id": 3,
+    "name": "Solar PV Technician",
+    "version": "2026.1"
+  },
+  {
+    "id": 4,
+    "name": "Data Analytics Foundations",
+    "version": "2026.1"
+  },
+  {
+    "id": 5,
+    "name": "Industrial Automation Technician",
+    "version": "2026.1"
+  },
+  {
+    "id": 6,
+    "name": "Healthcare Support",
+    "version": "2026.1"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "state": "Maharashtra",
+    "name": "Pune"
+  },
+  {
+    "id": 2,
+    "state": "Maharashtra",
+    "name": "Mumbai City"
+  },
+  {
+    "id": 3,
+    "state": "Maharashtra",
+    "name": "Nagpur"
+  },
+  {
+    "id": 4,
+    "state": "Maharashtra",
+    "name": "Nashik"
+  },
+  {
+    "id": 5,
+    "state": "Maharashtra",
+    "name": "Chhatrapati Sambhajinagar"
+  },
+  {
+    "id": 6,
+    "state": "Maharashtra",
+    "name": "Thane"
+  },
+  {
+    "id": 7,
+    "state": "Maharashtra",
+    "name": "Kolhapur"
+  },
+  {
+    "id": 8,
+    "state": "Maharashtra",
+    "name": "Nanded"
+  },
+  {
+    "id": 9,
+    "state": "Maharashtra",
+    "name": "Solapur"
+  },
+  {
+    "id": 10,
+    "state": "Maharashtra",
+    "name": "Amravati"
+  }
+]

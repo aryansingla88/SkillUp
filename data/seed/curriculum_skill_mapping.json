@@ -1,0 +1,116 @@
+[
+  {
+    "curriculum_id": 1,
+    "skill_id": 1,
+    "subskill_id": 1,
+    "module_name": "Programming"
+  },
+  {
+    "curriculum_id": 1,
+    "skill_id": 4,
+    "subskill_id": 8,
+    "module_name": "Version Control"
+  },
+  {
+    "curriculum_id": 1,
+    "skill_id": 5,
+    "subskill_id": 9,
+    "module_name": "Cloud Basics"
+  },
+  {
+    "curriculum_id": 2,
+    "skill_id": 10,
+    "subskill_id": 15,
+    "module_name": "EV Diagnostics"
+  },
+  {
+    "curriculum_id": 2,
+    "skill_id": 11,
+    "subskill_id": 16,
+    "module_name": "Battery Systems"
+  },
+  {
+    "curriculum_id": 2,
+    "skill_id": 12,
+    "subskill_id": 17,
+    "module_name": "Vehicle Electrical"
+  },
+  {
+    "curriculum_id": 2,
+    "skill_id": 15,
+    "subskill_id": 20,
+    "module_name": "Safety"
+  },
+  {
+    "curriculum_id": 3,
+    "skill_id": 13,
+    "subskill_id": 18,
+    "module_name": "PV Installation"
+  },
+  {
+    "curriculum_id": 3,
+    "skill_id": 14,
+    "subskill_id": 19,
+    "module_name": "System Design"
+  },
+  {
+    "curriculum_id": 3,
+    "skill_id": 15,
+    "subskill_id": 20,
+    "module_name": "Safety"
+  },
+  {
+    "curriculum_id": 4,
+    "skill_id": 1,
+    "subskill_id": 1,
+    "module_name": "Programming"
+  },
+  {
+    "curriculum_id": 4,
+    "skill_id": 2,
+    "subskill_id": 4,
+    "module_name": "SQL"
+  },
+  {
+    "curriculum_id": 4,
+    "skill_id": 3,
+    "subskill_id": 6,
+    "module_name": "Data Analysis"
+  },
+  {
+    "curriculum_id": 5,
+    "skill_id": 26,
+    "subskill_id": 31,
+    "module_name": "PLC"
+  },
+  {
+    "curriculum_id": 5,
+    "skill_id": 27,
+    "subskill_id": 32,
+    "module_name": "Quality"
+  },
+  {
+    "curriculum_id": 5,
+    "skill_id": 25,
+    "subskill_id": 30,
+    "module_name": "CNC Basics"
+  },
+  {
+    "curriculum_id": 6,
+    "skill_id": 16,
+    "subskill_id": 21,
+    "module_name": "Patient Care"
+  },
+  {
+    "curriculum_id": 6,
+    "skill_id": 17,
+    "subskill_id": 22,
+    "module_name": "Lab Procedures"
+  },
+  {
+    "curriculum_id": 6,
+    "skill_id": 18,
+    "subskill_id": 23,
+    "module_name": "Documentation"
+  }
+]

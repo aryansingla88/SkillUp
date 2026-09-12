@@ -1,0 +1,112 @@
+[
+  {
+    "learning_resource_id": 1,
+    "skill_id": 1,
+    "subskill_id": 1
+  },
+  {
+    "learning_resource_id": 1,
+    "skill_id": 1,
+    "subskill_id": 2
+  },
+  {
+    "learning_resource_id": 2,
+    "skill_id": 2,
+    "subskill_id": 4
+  },
+  {
+    "learning_resource_id": 2,
+    "skill_id": 2,
+    "subskill_id": 5
+  },
+  {
+    "learning_resource_id": 3,
+    "skill_id": 4,
+    "subskill_id": 8
+  },
+  {
+    "learning_resource_id": 4,
+    "skill_id": 5,
+    "subskill_id": 9
+  },
+  {
+    "learning_resource_id": 5,
+    "skill_id": 1,
+    "subskill_id": 3
+  },
+  {
+    "learning_resource_id": 5,
+    "skill_id": 2,
+    "subskill_id": 4
+  },
+  {
+    "learning_resource_id": 6,
+    "skill_id": 10,
+    "subskill_id": 15
+  },
+  {
+    "learning_resource_id": 7,
+    "skill_id": 11,
+    "subskill_id": 16
+  },
+  {
+    "learning_resource_id": 8,
+    "skill_id": 13,
+    "subskill_id": 18
+  },
+  {
+    "learning_resource_id": 8,
+    "skill_id": 15,
+    "subskill_id": 20
+  },
+  {
+    "learning_resource_id": 9,
+    "skill_id": 14,
+    "subskill_id": 19
+  },
+  {
+    "learning_resource_id": 10,
+    "skill_id": 19,
+    "subskill_id": 24
+  },
+  {
+    "learning_resource_id": 10,
+    "skill_id": 20,
+    "subskill_id": 25
+  },
+  {
+    "learning_resource_id": 11,
+    "skill_id": 26,
+    "subskill_id": 31
+  },
+  {
+    "learning_resource_id": 12,
+    "skill_id": 25,
+    "subskill_id": 30
+  },
+  {
+    "learning_resource_id": 13,
+    "skill_id": 16,
+    "subskill_id": 21
+  },
+  {
+    "learning_resource_id": 13,
+    "skill_id": 18,
+    "subskill_id": 23
+  },
+  {
+    "learning_resource_id": 14,
+    "skill_id": 23,
+    "subskill_id": 28
+  },
+  {
+    "learning_resource_id": 14,
+    "skill_id": 24,
+    "subskill_id": 29
+  },
+  {
+    "learning_resource_id": 15,
+    "skill_id": 27,
+    "subskill_id": 32
+  }
+]

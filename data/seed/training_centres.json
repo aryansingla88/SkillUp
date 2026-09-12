@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "district_id": 1,
+    "name": "District Skill Centre - Pune",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 2,
+    "district_id": 1,
+    "name": "Government ITI - Pune",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 3,
+    "district_id": 1,
+    "name": "Industry Training Partner - Pune",
+    "ownership_type": "INDUSTRY"
+  },
+  {
+    "id": 4,
+    "district_id": 2,
+    "name": "District Skill Centre - Mumbai City",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 5,
+    "district_id": 2,
+    "name": "Government ITI - Mumbai City",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 6,
+    "district_id": 2,
+    "name": "Industry Training Partner - Mumbai City",
+    "ownership_type": "INDUSTRY"
+  },
+  {
+    "id": 7,
+    "district_id": 3,
+    "name": "District Skill Centre - Nagpur",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 8,
+    "district_id": 3,
+    "name": "Government ITI - Nagpur",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 9,
+    "district_id": 3,
+    "name": "Industry Training Partner - Nagpur",
+    "ownership_type": "INDUSTRY"
+  },
+  {
+    "id": 10,
+    "district_id": 4,
+    "name": "District Skill Centre - Nashik",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 11,
+    "district_id": 4,
+    "name": "Government ITI - Nashik",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 12,
+    "district_id": 4,
+    "name": "Industry Training Partner - Nashik",
+    "ownership_type": "INDUSTRY"
+  },
+  {
+    "id": 13,
+    "district_id": 5,
+    "name": "District Skill Centre - Chhatrapati Sambhajinagar",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 14,
+    "district_id": 5,
+    "name": "Government ITI - Chhatrapati Sambhajinagar",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 15,
+    "district_id": 5,
+    "name": "Industry Training Partner - Chhatrapati Sambhajinagar",
+    "ownership_type": "INDUSTRY"
+  },
+  {
+    "id": 16,
+    "district_id": 6,
+    "name": "District Skill Centre - Thane",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 17,
+    "district_id": 6,
+    "name": "Government ITI - Thane",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 18,
+    "district_id": 6,
+    "name": "Industry Training Partner - Thane",
+    "ownership_type": "INDUSTRY"
+  },
+  {
+    "id": 19,
+    "district_id": 7,
+    "name": "District Skill Centre - Kolhapur",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 20,
+    "district_id": 7,
+    "name": "Government ITI - Kolhapur",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 21,
+    "district_id": 7,
+    "name": "Industry Training Partner - Kolhapur",
+    "ownership_type": "INDUSTRY"
+  },
+  {
+    "id": 22,
+    "district_id": 8,
+    "name": "District Skill Centre - Nanded",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 23,
+    "district_id": 8,
+    "name": "Government ITI - Nanded",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 24,
+    "district_id": 8,
+    "name": "Industry Training Partner - Nanded",
+    "ownership_type": "INDUSTRY"
+  },
+  {
+    "id": 25,
+    "district_id": 9,
+    "name": "District Skill Centre - Solapur",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 26,
+    "district_id": 9,
+    "name": "Government ITI - Solapur",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 27,
+    "district_id": 9,
+    "name": "Industry Training Partner - Solapur",
+    "ownership_type": "INDUSTRY"
+  },
+  {
+    "id": 28,
+    "district_id": 10,
+    "name": "District Skill Centre - Amravati",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 29,
+    "district_id": 10,
+    "name": "Government ITI - Amravati",
+    "ownership_type": "GOVERNMENT"
+  },
+  {
+    "id": 30,
+    "district_id": 10,
+    "name": "Industry Training Partner - Amravati",
+    "ownership_type": "INDUSTRY"
+  }
+]
