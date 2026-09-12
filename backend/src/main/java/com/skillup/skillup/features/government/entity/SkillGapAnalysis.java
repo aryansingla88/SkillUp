@@ -5,6 +5,7 @@ import com.skillup.skillup.features.reference.entity.JobRole;
 import com.skillup.skillup.features.reference.entity.Skill;
 import jakarta.persistence.*;
 import lombok.*;
+import java.math.BigDecimal;
 
 @Entity
 @Table(name = "skill_gap_analysis")
@@ -37,6 +38,6 @@ public class SkillGapAnalysis {
     @Column(nullable = false)
     private Integer gap;
 
-    @Column(name = "priority_score", nullable = false)
-    private Double priorityScore;
+    @Column(name = "priority_score", nullable = false, precision = 10, scale = 2)
+    private BigDecimal priorityScore;
 }

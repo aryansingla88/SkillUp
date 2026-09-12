@@ -21,7 +21,9 @@ public class GovernmentIntelligenceMapper {
                 entity.getDemand(),
                 entity.getTrainingCapacity(),
                 entity.getGap(),
-                entity.getPriorityScore()
+                entity.getPriorityScore() != null
+                        ? entity.getPriorityScore().doubleValue()
+                        : null
         );
     }
 }
