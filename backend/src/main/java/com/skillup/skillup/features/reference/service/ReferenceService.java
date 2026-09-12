@@ -1,6 +1,7 @@
 package com.skillup.skillup.features.reference.service;
 
 import com.skillup.skillup.features.reference.dto.response.*;
+import com.skillup.skillup.common.exception.ResourceNotFoundException;
 import com.skillup.skillup.features.reference.mapper.ReferenceMapper;
 import com.skillup.skillup.features.reference.repository.*;
 import lombok.RequiredArgsConstructor;
@@ -45,6 +46,10 @@ public class ReferenceService {
                     .toList();
         }
 
+        if (!sectorRepository.existsById(sectorId)) {
+            throw new ResourceNotFoundException("Sector not found with id: " + sectorId);
+        }
+
         return jobRoleRepository.findBySector_Id(sectorId)
                 .stream()
                 .map(referenceMapper::toJobRoleResponse)
@@ -60,6 +65,10 @@ public class ReferenceService {
                     .toList();
         }
 
+        if (!sectorRepository.existsById(sectorId)) {
+            throw new ResourceNotFoundException("Sector not found with id: " + sectorId);
+        }
+
         return skillRepository.findBySector_Id(sectorId)
                 .stream()
                 .map(referenceMapper::toSkillResponse)
@@ -67,6 +76,10 @@ public class ReferenceService {
     }
 
     public List<SubskillResponse> getSubskills(Long skillId) {
+
+        if (!skillRepository.existsById(skillId)) {
+            throw new ResourceNotFoundException("Skill not found with id: " + skillId);
+        }
 
         return subskillRepository.findBySkill_Id(skillId)
                 .stream()

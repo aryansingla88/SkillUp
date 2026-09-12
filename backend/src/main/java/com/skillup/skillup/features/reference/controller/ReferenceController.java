@@ -8,12 +8,14 @@ import com.skillup.skillup.features.reference.dto.response.SubskillResponse;
 import com.skillup.skillup.features.reference.service.ReferenceService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.security.access.prepost.PreAuthorize;
 
 import java.util.List;
 
 @RestController
 @RequestMapping
 @RequiredArgsConstructor
+@PreAuthorize("isAuthenticated()")
 public class ReferenceController {
 
     private final ReferenceService referenceService;
