@@ -17,6 +17,7 @@ public class ImplementationProgressService {
   if(req.getCurrentValue().equals(req.getTargetValue()))item.setStatus(ActionItemStatus.COMPLETED);else if(req.getCurrentValue()>0)item.setStatus(ActionItemStatus.IN_PROGRESS);itemRepo.save(item);
   return out;
  }
- private MetricType parseMetricType(String s){try{return MetricType.valueOf(s.toUpperCase());}catch(Exception e){throw new BadRequestException("Invalid metric type: "+s);}}\n private ActionItem ensureItem(Long id){return itemRepo.findById(id).orElseThrow(()->new ResourceNotFoundException("Action item not found with id: "+id));}
+ private MetricType parseMetricType(String s){try{return MetricType.valueOf(s.toUpperCase());}catch(Exception e){throw new BadRequestException("Invalid metric type: "+s);}}
+ private ActionItem ensureItem(Long id){return itemRepo.findById(id).orElseThrow(()->new ResourceNotFoundException("Action item not found with id: "+id));}
  private ProgressResponse toResponse(ImplementationProgress p){return new ProgressResponse(p.getId(),p.getActionItemId(),p.getMetricType(),p.getCurrentValue(),p.getTargetValue(),p.getRemarks(),p.getUpdatedBy(),p.getUpdatedAt());}
 }
