@@ -1,0 +1,43 @@
+/* SkillUp — page-specific extensions on the shared language */
+
+/* gap detail hero + WHY HIGH PRIORITY checklist */
+.gaphero{display:flex;justify-content:space-between;gap:20px;align-items:flex-start}
+.gaphero .gscore{text-align:center;flex-shrink:0}
+.gaphero .gscore .score{font-size:30px;font-weight:900;color:var(--lime)}
+.gaphero .gscore span{display:block;font-size:8px;color:var(--side-txt);text-transform:uppercase;letter-spacing:1.5px}
+
+/* recommendation detail */
+.recmeta{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
+.recactions{display:flex;gap:8px;justify-content:flex-end;margin-top:16px}
+.recconf{display:flex;align-items:center;gap:12px;margin-top:14px}
+.recconf .bar{flex:1}
+
+/* action plan draft editor */
+.apeditor .field{margin-bottom:15px}
+.aprow{display:grid;grid-template-columns:1fr 130px 90px 34px;gap:8px;align-items:center;margin-bottom:8px}
+.aptotal{display:flex;justify-content:space-between;font-size:11px;font-weight:800;padding:10px 0;border-top:1px solid var(--line)}
+
+/* implementation progress metrics */
+.metric{background:#fff;border:1px solid var(--line);border-radius:14px;padding:15px}
+.metric .mtop{display:flex;justify-content:space-between;font-size:10px;font-weight:800}
+.metric .mtop span{color:var(--muted);font-weight:700}
+.metric .bar{margin:9px 0 6px}
+.metric .mnum{font-size:9px;color:var(--muted2)}
+
+/* candidate readiness + matches */
+.readpanel{display:flex;gap:24px;align-items:center;flex-wrap:wrap}
+.matchbar{display:flex;align-items:center;gap:10px}
+.matchbar .bar{flex:1}
+.gapchip{display:inline-flex;align-items:center;background:#fde4e0;color:#a33;border-radius:6px;padding:4px 8px;font-size:9px;font-weight:800;margin:2px 3px 2px 0}
+
+@media(max-width:900px){
+  .grid.three{grid-template-columns:1fr 1fr}
+  .road{grid-template-columns:1fr;gap:8px}
+  .road .arrow{transform:rotate(90deg)}
+}
+@media(max-width:620px){
+  .grid,.grid.three,.grid.two,.profile{grid-template-columns:1fr}
+  .impact{grid-template-columns:1fr}
+  .hero .stats{grid-template-columns:1fr}
+  .aprow{grid-template-columns:1fr 90px;grid-auto-rows:auto}
+}
