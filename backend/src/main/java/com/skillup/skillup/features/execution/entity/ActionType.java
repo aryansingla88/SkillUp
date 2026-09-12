@@ -1,0 +1,1 @@
+package com.skillup.skillup.features.execution.entity; public enum ActionType { BATCH, TRAINER, EQUIPMENT, INFRASTRUCTURE }

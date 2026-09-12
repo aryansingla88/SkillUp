@@ -1,0 +1,1 @@
+package com.skillup.skillup.features.coordination.entity; public enum CoordinationRequestStatus { RAISED, UNDER_REVIEW, ASSIGNED, IN_PROGRESS, FULFILLED, REJECTED }
